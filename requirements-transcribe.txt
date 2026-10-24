@@ -1,0 +1,6 @@
+# Only needed to regenerate transcriptions from source audio, which the
+# pipelines do and the analysis does not. Pulls in torch (~200 MB) and
+# downloads a 172 MB model checkpoint on first use.
+-r requirements.txt
+torch==2.14.1
+piano_transcription_inference==0.0.6

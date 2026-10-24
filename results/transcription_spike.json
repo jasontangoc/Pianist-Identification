@@ -1,0 +1,95 @@
+{
+  "test1_shellac_pair": {
+    "scale_applied": 0.942689037398634,
+    "match": {
+      "matched": 104,
+      "n_ref": 3057,
+      "n_est": 4094,
+      "precision": 0.025403028822667317,
+      "recall": 0.03402028132155708,
+      "f1": 0.02908684100125856
+    },
+    "A": {
+      "n_notes": 3057,
+      "notes_per_sec": 6.3799148509892305,
+      "pitch_min": 24.0,
+      "pitch_max": 102.0,
+      "velocity_mean": 47.6228328426562,
+      "velocity_sd": 14.110296473069832
+    },
+    "B": {
+      "n_notes": 4094,
+      "notes_per_sec": 8.05444719740798,
+      "pitch_min": 22.0,
+      "pitch_max": 101.0,
+      "velocity_mean": 65.35295554469955,
+      "velocity_sd": 14.16549351267794
+    }
+  },
+  "test2_noise_ladder": {
+    "clean": {
+      "n_notes": 5892,
+      "notes_per_sec": 10.56848309106606,
+      "pitch_min": 24.0,
+      "pitch_max": 101.0,
+      "velocity_mean": 54.08638832315003,
+      "velocity_sd": 12.498791715828157
+    },
+    "noisy": {
+      "snr_18db": {
+        "match": {
+          "matched": 4045,
+          "n_ref": 5892,
+          "n_est": 5101,
+          "precision": 0.7929817682807293,
+          "recall": 0.6865241004752206,
+          "f1": 0.7359228600018193
+        },
+        "summary": {
+          "n_notes": 5101,
+          "notes_per_sec": 9.149666029790898,
+          "pitch_min": 22.0,
+          "pitch_max": 101.0,
+          "velocity_mean": 55.21466379141345,
+          "velocity_sd": 15.062048644862372
+        }
+      },
+      "snr_12db": {
+        "match": {
+          "matched": 3136,
+          "n_ref": 5892,
+          "n_est": 4177,
+          "precision": 0.7507780703854441,
+          "recall": 0.5322471147318398,
+          "f1": 0.6229019763630946
+        },
+        "summary": {
+          "n_notes": 4177,
+          "notes_per_sec": 7.4922868077703555,
+          "pitch_min": 22.0,
+          "pitch_max": 100.0,
+          "velocity_mean": 64.37754369164472,
+          "velocity_sd": 15.083976991699132
+        }
+      },
+      "snr_6db": {
+        "match": {
+          "matched": 2105,
+          "n_ref": 5892,
+          "n_est": 2933,
+          "precision": 0.7176951926355267,
+          "recall": 0.3572640868974881,
+          "f1": 0.47705382436260624
+        },
+        "summary": {
+          "n_notes": 2933,
+          "notes_per_sec": 5.260923439595512,
+          "pitch_min": 22.0,
+          "pitch_max": 98.0,
+          "velocity_mean": 76.07364473235594,
+          "velocity_sd": 13.799747655996544
+        }
+      }
+    }
+  }
+}

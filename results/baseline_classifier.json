@@ -1,0 +1,1596 @@
+{
+  "real": {
+    "n_samples": 303,
+    "n_classes": 60,
+    "chance": 0.016666666666666666,
+    "logreg": 0.09570957095709572,
+    "forest": 0.07920792079207921,
+    "top5": 0.3201320132013201,
+    "confusion": {
+      "LeeSH": {
+        "LeeSH": 1,
+        "SINKEV": 2,
+        "Ko": 1,
+        "Levitsky": 1,
+        "Huang": 1
+      },
+      "MiyashitaM": {
+        "LeeN": 2,
+        "Guo": 1,
+        "Sun": 1,
+        "TuanS": 1,
+        "Denisova": 1,
+        "Lin": 1,
+        "MiyashitaM": 1,
+        "Yarden": 1,
+        "Shybayeva": 1
+      },
+      "WangA": {
+        "ZhangE": 1,
+        "WuuE": 1,
+        "Na": 1,
+        "Tetzloff": 1,
+        "Levitsky": 1
+      },
+      "Tetzloff": {
+        "Tetzloff": 1,
+        "Huang": 1,
+        "HuangSW": 1,
+        "Mizumoto": 1,
+        "Guo": 1,
+        "GarritsonL": 1,
+        "Duepree": 1
+      },
+      "SINKEV": {
+        "MiyashitaM": 2,
+        "LeeSH": 1,
+        "SINKEV": 1,
+        "JohannsonP": 1,
+        "SunY": 1,
+        "Nikiforov": 1
+      },
+      "Kleisen": {
+        "Jussow": 1,
+        "Tetzloff": 1,
+        "Lin": 1,
+        "KimSY": 1,
+        "HONG": 1,
+        "Song": 1
+      },
+      "Levitsky": {
+        "JeonH": 1,
+        "HONG": 2,
+        "Zhdanov": 1,
+        "SINKEV": 2,
+        "Mizumoto": 1,
+        "Ko": 1
+      },
+      "Lin": {
+        "Lin": 2,
+        "Dossin": 1,
+        "Richardson": 1,
+        "Song": 1,
+        "Tetzloff": 1,
+        "Levitsky": 1,
+        "LeeSH": 1,
+        "Huangci": 1
+      },
+      "Richardson": {
+        "Richardson": 2,
+        "LuoJ": 1,
+        "WangY": 1,
+        "Lin": 1
+      },
+      "TuanS": {
+        "JeonH": 1,
+        "Ko": 2,
+        "JohannsonP": 1,
+        "MiyashitaM": 1
+      },
+      "Guo": {
+        "Tetzloff": 1,
+        "Huang": 3,
+        "Na": 1
+      },
+      "JeonH": {
+        "WangA": 1,
+        "ZhangH": 1,
+        "Lin": 1,
+        "TuanS": 1,
+        "Na": 1
+      },
+      "Wong": {
+        "ZhangE": 1,
+        "Shybayeva": 1,
+        "Wong": 1
+      },
+      "LuoJ": {
+        "Kleisen": 1,
+        "Lin": 1,
+        "Duepree": 1,
+        "MiyashitaM": 1
+      },
+      "Song": {
+        "Richardson": 1,
+        "HONG": 1,
+        "Denisova": 1,
+        "Song": 1
+      },
+      "ZhangH": {
+        "Dossin": 1,
+        "Huang": 2,
+        "Lin": 1,
+        "WangA": 1,
+        "Woo": 1
+      },
+      "LeeN": {
+        "LEE_K": 1,
+        "Denisova": 1,
+        "KimSY": 1
+      },
+      "TongB": {
+        "Huang": 1,
+        "ParkJH": 1,
+        "LeeSH": 1
+      },
+      "Duepree": {
+        "Richardson": 1,
+        "SINKEV": 1,
+        "Duepree": 1,
+        "Huang": 1,
+        "Levitsky": 1,
+        "ADIG": 1
+      },
+      "Huangci": {
+        "TuanS": 1,
+        "ZhangH": 1,
+        "WangA": 1,
+        "Levitsky": 1,
+        "Na": 1
+      },
+      "Na": {
+        "Na": 2,
+        "Zhdanov": 1,
+        "Lin": 2,
+        "ZhangH": 1,
+        "WangA": 2,
+        "MiyashitaM": 1,
+        "Ko": 1
+      },
+      "HuNY": {
+        "Zuber": 1,
+        "Woo": 1,
+        "Levitsky": 1,
+        "HuNY": 1
+      },
+      "LEE_K": {
+        "Shybayeva": 1,
+        "LEE_K": 3,
+        "MiyashitaM": 1
+      },
+      "HONG": {
+        "HONG": 2,
+        "Duepree": 2,
+        "Levitsky": 1,
+        "MiyashitaM": 1
+      },
+      "Huang": {
+        "ZhangE": 1,
+        "Na": 1,
+        "Huang": 4,
+        "SunY": 1,
+        "ADIG": 2,
+        "ZhangH": 1,
+        "Yarden": 1,
+        "GarritsonL": 1,
+        "MiyashitaM": 1
+      },
+      "Zuber": {
+        "Wong": 1,
+        "MiyashitaM": 1,
+        "HuangSW": 1,
+        "HuNY": 1,
+        "Lin": 1,
+        "SINKEV": 1
+      },
+      "ADIG": {
+        "Huang": 1,
+        "MiyashitaM": 1,
+        "Duepree": 1,
+        "Levitsky": 1,
+        "Lin": 1
+      },
+      "HuangSW": {
+        "Na": 2,
+        "MiyashitaM": 1,
+        "Shi": 1,
+        "SINKEV": 1,
+        "LeeSH": 1
+      },
+      "Stahievitch": {
+        "Stahievitch": 1,
+        "WangA": 2,
+        "MiyashitaM": 1
+      },
+      "KOLESO": {
+        "MiyashitaM": 1,
+        "Shybayeva": 1,
+        "GarritsonL": 1
+      },
+      "WangY": {
+        "Yarden": 1,
+        "Teo": 1,
+        "Kleisen": 1
+      },
+      "Denisova": {
+        "Kociuban": 1,
+        "Shybayeva": 1,
+        "ADIG": 1,
+        "Yarden": 1
+      },
+      "Mizumoto": {
+        "Na": 2,
+        "Tetzloff": 1,
+        "Mizumoto": 1,
+        "HuangSW": 1
+      },
+      "ZhangE": {
+        "ZhangH": 1,
+        "WuuE": 1,
+        "Huang": 1
+      },
+      "KaiRuiR": {
+        "Huang": 1,
+        "MiyashitaM": 1,
+        "Duepree": 1
+      },
+      "MunA": {
+        "SINKEV": 1,
+        "Shybayeva": 1,
+        "MiyashitaM": 1,
+        "Kleisen": 1
+      },
+      "Zhdanov": {
+        "SCHU": 1,
+        "Levitsky": 2,
+        "HuNY": 1
+      },
+      "WuuE": {
+        "Teo": 1,
+        "Levitsky": 1,
+        "Tetzloff": 1
+      },
+      "Shi": {
+        "Levitsky": 1,
+        "SINKEV": 1,
+        "Shybayeva": 1,
+        "LuoJ": 1,
+        "LeeSH": 1
+      },
+      "SCHU": {
+        "KimSY": 1,
+        "SCHU": 1,
+        "TuanS": 1,
+        "Tysman": 1
+      },
+      "Kociuban": {
+        "Duepree": 1,
+        "SINKEV": 2,
+        "Shi": 1,
+        "Levitsky": 1
+      },
+      "Sham": {
+        "Na": 1,
+        "Song": 1,
+        "Sun": 1
+      },
+      "Jussow": {
+        "Guo": 1,
+        "Mizumoto": 1,
+        "SINKEV": 1
+      },
+      "GarritsonL": {
+        "Huang": 3,
+        "Mizumoto": 1,
+        "WangA": 1
+      },
+      "Shybayeva": {
+        "MiyashitaM": 2,
+        "Denisova": 1,
+        "Yarden": 1,
+        "Nikiforov": 1
+      },
+      "KimSY": {
+        "LeeN": 1,
+        "SCHU": 1,
+        "Lin": 1,
+        "MiyashitaM": 1,
+        "WangA": 1
+      },
+      "Tysman": {
+        "SCHU": 1,
+        "Huang": 1,
+        "Mizumoto": 1,
+        "Zuber": 1
+      },
+      "LeungM": {
+        "WangY": 2,
+        "LeungM": 1,
+        "Na": 1,
+        "LEE_K": 1
+      },
+      "Sun": {
+        "TuanS": 1,
+        "Lin": 1,
+        "HONG": 1
+      },
+      "Teo": {
+        "WangY": 1,
+        "ParkJH": 1,
+        "Shybayeva": 1,
+        "GarritsonL": 1
+      },
+      "Dossin": {
+        "Yarden": 1,
+        "ParkJH": 1,
+        "Song": 1,
+        "Na": 1
+      },
+      "Nikiforov": {
+        "HuangSW": 1,
+        "LeeSH": 1,
+        "MiyashitaM": 1,
+        "Levitsky": 1
+      },
+      "Ko": {
+        "LeeSH": 1,
+        "JohannsonP": 1,
+        "MiyashitaM": 1,
+        "Teo": 1,
+        "Levitsky": 1,
+        "SINKEV": 1
+      },
+      "Woo": {
+        "Levitsky": 1,
+        "ZhangH": 1,
+        "JohannsonP": 1,
+        "HONG": 1,
+        "MiyashitaM": 1
+      },
+      "ZhangW": {
+        "Lin": 3
+      },
+      "SunY": {
+        "Teo": 1,
+        "Huang": 2,
+        "Ko": 1,
+        "Na": 1
+      },
+      "Yeletskiy": {
+        "MiyashitaM": 2,
+        "MunA": 1,
+        "HuNY": 1,
+        "Shybayeva": 1,
+        "Yeletskiy": 1
+      },
+      "JohannsonP": {
+        "Levitsky": 1,
+        "Huang": 1,
+        "JohannsonP": 1,
+        "Duepree": 1,
+        "Lin": 1
+      },
+      "Yarden": {
+        "Yeletskiy": 1,
+        "Tetzloff": 2,
+        "Kleisen": 1,
+        "Zuber": 1,
+        "LEE_K": 1
+      },
+      "ParkJH": {
+        "Sham": 1,
+        "LEE_K": 1,
+        "ADIG": 1,
+        "Na": 1,
+        "LuoJ": 1
+      }
+    }
+  },
+  "shuffled": {
+    "n_samples": 303,
+    "n_classes": 60,
+    "chance": 0.016666666666666666,
+    "logreg": 0.016501650165016504,
+    "forest": 0.0033003300330033004,
+    "top5": 0.11221122112211222,
+    "confusion": {
+      "JohannsonP": {
+        "HuangSW": 1,
+        "Yarden": 1,
+        "MiyashitaM": 1,
+        "TongB": 1,
+        "Duepree": 1
+      },
+      "Na": {
+        "MiyashitaM": 1,
+        "Tetzloff": 1,
+        "Na": 3,
+        "Lin": 1,
+        "WangA": 1,
+        "SINKEV": 1,
+        "Song": 1,
+        "Kleisen": 1
+      },
+      "Denisova": {
+        "ParkJH": 1,
+        "LeeSH": 1,
+        "Huang": 1,
+        "KimSY": 1
+      },
+      "Ko": {
+        "Levitsky": 1,
+        "Stahievitch": 1,
+        "Huang": 1,
+        "JohannsonP": 1,
+        "LeungM": 1,
+        "Dossin": 1
+      },
+      "LEE_K": {
+        "KaiRuiR": 1,
+        "Teo": 1,
+        "MunA": 1,
+        "Yarden": 1,
+        "ParkJH": 1
+      },
+      "HONG": {
+        "Stahievitch": 1,
+        "Kleisen": 1,
+        "Levitsky": 2,
+        "Wong": 1,
+        "Huangci": 1
+      },
+      "Duepree": {
+        "SINKEV": 1,
+        "JohannsonP": 1,
+        "HONG": 1,
+        "MiyashitaM": 1,
+        "Lin": 1,
+        "Yarden": 1
+      },
+      "HuangSW": {
+        "HONG": 1,
+        "Levitsky": 1,
+        "MiyashitaM": 1,
+        "Huang": 1,
+        "ParkJH": 1,
+        "Mizumoto": 1
+      },
+      "MiyashitaM": {
+        "Huang": 2,
+        "Yeletskiy": 1,
+        "Na": 1,
+        "SunY": 1,
+        "ParkJH": 2,
+        "Woo": 1,
+        "Guo": 1,
+        "MiyashitaM": 1
+      },
+      "KimSY": {
+        "MiyashitaM": 1,
+        "LeeN": 1,
+        "JeonH": 1,
+        "Denisova": 1,
+        "Lin": 1
+      },
+      "Song": {
+        "Na": 1,
+        "HuangSW": 1,
+        "LEE_K": 1,
+        "ParkJH": 1
+      },
+      "Nikiforov": {
+        "Na": 1,
+        "Shybayeva": 1,
+        "JeonH": 1,
+        "Huangci": 1
+      },
+      "Wong": {
+        "ParkJH": 1,
+        "Huang": 1,
+        "MiyashitaM": 1
+      },
+      "Woo": {
+        "Na": 1,
+        "WangA": 1,
+        "Yarden": 2,
+        "MiyashitaM": 1
+      },
+      "Yarden": {
+        "Woo": 1,
+        "Lin": 1,
+        "TongB": 1,
+        "ParkJH": 1,
+        "ADIG": 1,
+        "Huang": 1
+      },
+      "Kociuban": {
+        "KimSY": 1,
+        "WangA": 1,
+        "Mizumoto": 1,
+        "Huang": 1,
+        "Tetzloff": 1
+      },
+      "SINKEV": {
+        "Duepree": 1,
+        "Mizumoto": 1,
+        "Huang": 1,
+        "WangA": 1,
+        "ZhangW": 1,
+        "Nikiforov": 1,
+        "LEE_K": 1
+      },
+      "Shi": {
+        "HuangSW": 1,
+        "Sun": 1,
+        "Zhdanov": 2,
+        "ZhangH": 1
+      },
+      "Stahievitch": {
+        "Kociuban": 1,
+        "LeeSH": 1,
+        "Ko": 1,
+        "Huang": 1
+      },
+      "Tetzloff": {
+        "MiyashitaM": 2,
+        "ZhangW": 1,
+        "Huang": 1,
+        "Richardson": 2,
+        "Na": 1
+      },
+      "Zhdanov": {
+        "Levitsky": 1,
+        "ADIG": 1,
+        "ParkJH": 1,
+        "Shi": 1
+      },
+      "Yeletskiy": {
+        "Levitsky": 1,
+        "Kociuban": 1,
+        "Huang": 1,
+        "Na": 1,
+        "Duepree": 1,
+        "SunY": 1
+      },
+      "Huangci": {
+        "Lin": 1,
+        "ZhangH": 1,
+        "Tysman": 1,
+        "Tetzloff": 1,
+        "MiyashitaM": 1
+      },
+      "ZhangW": {
+        "Yarden": 1,
+        "WangA": 1,
+        "Tetzloff": 1
+      },
+      "Guo": {
+        "Duepree": 1,
+        "Sun": 1,
+        "TongB": 1,
+        "WangA": 1,
+        "GarritsonL": 1
+      },
+      "SunY": {
+        "Yeletskiy": 1,
+        "LeeSH": 1,
+        "HONG": 1,
+        "Na": 1,
+        "Nikiforov": 1
+      },
+      "Shybayeva": {
+        "LeungM": 1,
+        "Lin": 1,
+        "Na": 1,
+        "Nikiforov": 1,
+        "ParkJH": 1
+      },
+      "Zuber": {
+        "WangA": 1,
+        "LeeN": 1,
+        "Tetzloff": 1,
+        "MunA": 1,
+        "Ko": 1,
+        "GarritsonL": 1
+      },
+      "LeungM": {
+        "Huangci": 2,
+        "WangA": 1,
+        "Huang": 1,
+        "ZhangH": 1
+      },
+      "Kleisen": {
+        "HuangSW": 1,
+        "Huang": 2,
+        "SunY": 1,
+        "JeonH": 1,
+        "Lin": 1
+      },
+      "Lin": {
+        "Mizumoto": 1,
+        "TongB": 1,
+        "Huang": 2,
+        "ParkJH": 1,
+        "MiyashitaM": 1,
+        "KimSY": 1,
+        "Kleisen": 1,
+        "Huangci": 1
+      },
+      "ZhangE": {
+        "SINKEV": 2,
+        "Huang": 1
+      },
+      "Levitsky": {
+        "Huang": 1,
+        "Huangci": 1,
+        "Richardson": 1,
+        "SunY": 1,
+        "WangA": 1,
+        "Ko": 1,
+        "ZhangH": 1,
+        "HONG": 1
+      },
+      "HuNY": {
+        "Huang": 1,
+        "Yarden": 1,
+        "Yeletskiy": 1,
+        "Na": 1
+      },
+      "LeeN": {
+        "Mizumoto": 1,
+        "Yeletskiy": 1,
+        "GarritsonL": 1
+      },
+      "GarritsonL": {
+        "HuangSW": 1,
+        "Na": 1,
+        "WuuE": 1,
+        "Levitsky": 1,
+        "KOLESO": 1
+      },
+      "Dossin": {
+        "LeeSH": 1,
+        "Mizumoto": 1,
+        "Zhdanov": 1,
+        "Duepree": 1
+      },
+      "SCHU": {
+        "Huang": 1,
+        "Zhdanov": 1,
+        "Lin": 1,
+        "Denisova": 1
+      },
+      "MunA": {
+        "LEE_K": 1,
+        "LeeSH": 1,
+        "KOLESO": 1,
+        "Song": 1
+      },
+      "Jussow": {
+        "Na": 1,
+        "Levitsky": 1,
+        "Kleisen": 1
+      },
+      "ZhangH": {
+        "Tetzloff": 1,
+        "Lin": 1,
+        "Huang": 1,
+        "HuangSW": 1,
+        "Huangci": 1,
+        "Duepree": 1
+      },
+      "KOLESO": {
+        "Huang": 1,
+        "MunA": 1,
+        "HuNY": 1
+      },
+      "LuoJ": {
+        "MiyashitaM": 1,
+        "Yeletskiy": 1,
+        "Guo": 1,
+        "Na": 1
+      },
+      "Richardson": {
+        "Kociuban": 1,
+        "WangA": 2,
+        "Shybayeva": 1,
+        "Mizumoto": 1
+      },
+      "JeonH": {
+        "Na": 1,
+        "Huang": 1,
+        "Denisova": 1,
+        "KimSY": 1,
+        "Lin": 1
+      },
+      "LeeSH": {
+        "Mizumoto": 1,
+        "Huang": 1,
+        "KimSY": 1,
+        "MunA": 1,
+        "Kociuban": 1,
+        "GarritsonL": 1
+      },
+      "Huang": {
+        "Sun": 1,
+        "Yeletskiy": 1,
+        "Na": 1,
+        "Duepree": 1,
+        "Woo": 1,
+        "Sham": 1,
+        "Richardson": 1,
+        "Teo": 1,
+        "ParkJH": 1,
+        "Huang": 1,
+        "Song": 1,
+        "Yarden": 1,
+        "MiyashitaM": 1
+      },
+      "Tysman": {
+        "Tetzloff": 1,
+        "Duepree": 1,
+        "HuangSW": 1,
+        "MiyashitaM": 1
+      },
+      "TongB": {
+        "HuangSW": 1,
+        "Kleisen": 1,
+        "JohannsonP": 1
+      },
+      "WuuE": {
+        "Shybayeva": 1,
+        "Yarden": 1,
+        "GarritsonL": 1
+      },
+      "Sham": {
+        "Lin": 1,
+        "Kleisen": 1,
+        "Huang": 1
+      },
+      "WangA": {
+        "Guo": 1,
+        "SunY": 1,
+        "Tetzloff": 1,
+        "Teo": 1,
+        "ZhangW": 1
+      },
+      "Sun": {
+        "Tetzloff": 1,
+        "Kociuban": 1,
+        "Teo": 1
+      },
+      "KaiRuiR": {
+        "ParkJH": 1,
+        "ZhangW": 1,
+        "Tetzloff": 1
+      },
+      "Mizumoto": {
+        "LeeN": 2,
+        "HuangSW": 1,
+        "LeeSH": 1,
+        "Huang": 1
+      },
+      "WangY": {
+        "ZhangH": 1,
+        "HONG": 1,
+        "Lin": 1
+      },
+      "ParkJH": {
+        "TuanS": 1,
+        "LEE_K": 1,
+        "Teo": 1,
+        "Ko": 1,
+        "Lin": 1
+      },
+      "ADIG": {
+        "ZhangE": 1,
+        "Richardson": 1,
+        "Guo": 1,
+        "ParkJH": 1,
+        "Huangci": 1
+      },
+      "TuanS": {
+        "Stahievitch": 1,
+        "ParkJH": 2,
+        "MiyashitaM": 1,
+        "JeonH": 1
+      },
+      "Teo": {
+        "Huang": 1,
+        "Sun": 1,
+        "HONG": 1,
+        "JohannsonP": 1
+      }
+    }
+  },
+  "piece_only": {
+    "n_samples": 303,
+    "n_classes": 60,
+    "chance": 0.016666666666666666,
+    "logreg": 0.049504950495049514,
+    "forest": 0.039603960396039604,
+    "top5": 0.20132013201320131,
+    "confusion": {
+      "LeeSH": {
+        "MiyashitaM": 1,
+        "Woo": 1,
+        "Lin": 1,
+        "Ko": 1,
+        "Na": 1,
+        "Zuber": 1
+      },
+      "MiyashitaM": {
+        "Huang": 3,
+        "Ko": 1,
+        "Lin": 2,
+        "LeeSH": 1,
+        "WangA": 1,
+        "Levitsky": 1,
+        "Tetzloff": 1
+      },
+      "WangA": {
+        "Huang": 2,
+        "Tetzloff": 1,
+        "MiyashitaM": 2
+      },
+      "Tetzloff": {
+        "Ko": 1,
+        "Tetzloff": 3,
+        "Denisova": 1,
+        "MiyashitaM": 1,
+        "TuanS": 1
+      },
+      "SINKEV": {
+        "Huang": 3,
+        "Guo": 1,
+        "MunA": 2,
+        "SINKEV": 1
+      },
+      "Kleisen": {
+        "Huang": 3,
+        "Woo": 1,
+        "Levitsky": 1,
+        "Kleisen": 1
+      },
+      "Levitsky": {
+        "Huang": 2,
+        "Levitsky": 2,
+        "MiyashitaM": 1,
+        "Lin": 2,
+        "Kleisen": 1
+      },
+      "Lin": {
+        "MiyashitaM": 3,
+        "Levitsky": 2,
+        "Huang": 1,
+        "LeeSH": 1,
+        "Guo": 1,
+        "Richardson": 1
+      },
+      "Richardson": {
+        "MiyashitaM": 2,
+        "Lin": 1,
+        "MunA": 1,
+        "TuanS": 1
+      },
+      "TuanS": {
+        "Tetzloff": 2,
+        "Huang": 2,
+        "HONG": 1
+      },
+      "Guo": {
+        "Huang": 2,
+        "Na": 1,
+        "SINKEV": 1,
+        "Lin": 1
+      },
+      "JeonH": {
+        "Huang": 2,
+        "Shi": 1,
+        "SINKEV": 1,
+        "Kociuban": 1
+      },
+      "Wong": {
+        "Levitsky": 2,
+        "TuanS": 1
+      },
+      "LuoJ": {
+        "Woo": 1,
+        "HuNY": 1,
+        "Lin": 1,
+        "TuanS": 1
+      },
+      "Song": {
+        "HONG": 1,
+        "Tetzloff": 1,
+        "Guo": 1,
+        "MiyashitaM": 1
+      },
+      "ZhangH": {
+        "Levitsky": 4,
+        "Tetzloff": 2
+      },
+      "LeeN": {
+        "Tetzloff": 1,
+        "TuanS": 2
+      },
+      "TongB": {
+        "Tetzloff": 1,
+        "TuanS": 2
+      },
+      "Duepree": {
+        "Yeletskiy": 1,
+        "Huang": 2,
+        "Na": 1,
+        "LeeSH": 1,
+        "Zuber": 1
+      },
+      "Huangci": {
+        "Yeletskiy": 1,
+        "HONG": 2,
+        "Shybayeva": 1,
+        "Huang": 1
+      },
+      "Na": {
+        "Yeletskiy": 2,
+        "Zuber": 2,
+        "Na": 3,
+        "Shi": 2,
+        "Huang": 1
+      },
+      "HuNY": {
+        "Huang": 1,
+        "Yarden": 1,
+        "Levitsky": 1,
+        "TuanS": 1
+      },
+      "LEE_K": {
+        "Huang": 2,
+        "KimSY": 1,
+        "Ko": 1,
+        "HONG": 1
+      },
+      "HONG": {
+        "Huang": 2,
+        "Shybayeva": 2,
+        "TuanS": 1,
+        "GarritsonL": 1
+      },
+      "Huang": {
+        "Huang": 5,
+        "Na": 1,
+        "Guo": 1,
+        "LEE_K": 1,
+        "Lin": 1,
+        "SINKEV": 1,
+        "HONG": 1,
+        "MiyashitaM": 1,
+        "Yeletskiy": 1
+      },
+      "Zuber": {
+        "Na": 3,
+        "Duepree": 1,
+        "Huang": 1,
+        "Tetzloff": 1
+      },
+      "ADIG": {
+        "Zuber": 2,
+        "Huang": 2,
+        "Na": 1
+      },
+      "HuangSW": {
+        "Zuber": 1,
+        "HONG": 2,
+        "Huang": 1,
+        "Na": 1,
+        "GarritsonL": 1
+      },
+      "Stahievitch": {
+        "Zuber": 1,
+        "SunY": 1,
+        "Na": 1,
+        "Huang": 1
+      },
+      "KOLESO": {
+        "Huang": 1,
+        "Levitsky": 1,
+        "MiyashitaM": 1
+      },
+      "WangY": {
+        "Huang": 3
+      },
+      "Denisova": {
+        "Tetzloff": 1,
+        "Levitsky": 1,
+        "LeeSH": 1,
+        "MiyashitaM": 1
+      },
+      "Mizumoto": {
+        "MiyashitaM": 2,
+        "LeeSH": 2,
+        "Duepree": 1
+      },
+      "ZhangE": {
+        "MiyashitaM": 1,
+        "LeeSH": 1,
+        "Huang": 1
+      },
+      "KaiRuiR": {
+        "SunY": 1,
+        "Shi": 1,
+        "Huang": 1
+      },
+      "MunA": {
+        "SunY": 1,
+        "Lin": 1,
+        "SINKEV": 1,
+        "Huang": 1
+      },
+      "Zhdanov": {
+        "SunY": 1,
+        "LEE_K": 1,
+        "Huang": 1,
+        "HONG": 1
+      },
+      "WuuE": {
+        "Yarden": 1,
+        "Ko": 1,
+        "Huang": 1
+      },
+      "Shi": {
+        "Huang": 3,
+        "Na": 1,
+        "Tetzloff": 1
+      },
+      "SCHU": {
+        "Tetzloff": 1,
+        "HONG": 3
+      },
+      "Kociuban": {
+        "Huang": 1,
+        "LeeSH": 1,
+        "MiyashitaM": 1,
+        "Na": 1,
+        "Lin": 1
+      },
+      "Sham": {
+        "Huang": 2,
+        "Ko": 1
+      },
+      "Jussow": {
+        "Huang": 1,
+        "MunA": 1,
+        "TuanS": 1
+      },
+      "GarritsonL": {
+        "HONG": 3,
+        "Huang": 1,
+        "Yeletskiy": 1
+      },
+      "Shybayeva": {
+        "HONG": 3,
+        "WangA": 1,
+        "LeeSH": 1
+      },
+      "KimSY": {
+        "HONG": 1,
+        "Tetzloff": 1,
+        "Shybayeva": 1,
+        "GarritsonL": 1,
+        "Yeletskiy": 1
+      },
+      "Tysman": {
+        "Duepree": 1,
+        "Huang": 3
+      },
+      "LeungM": {
+        "Huang": 2,
+        "MiyashitaM": 1,
+        "Zuber": 1,
+        "Na": 1
+      },
+      "Sun": {
+        "Huang": 2,
+        "Duepree": 1
+      },
+      "Teo": {
+        "Huang": 2,
+        "Na": 1,
+        "Lin": 1
+      },
+      "Dossin": {
+        "Levitsky": 1,
+        "MunA": 1,
+        "Jussow": 1,
+        "Lin": 1
+      },
+      "Nikiforov": {
+        "Levitsky": 1,
+        "Tetzloff": 1,
+        "MiyashitaM": 1,
+        "TuanS": 1
+      },
+      "Ko": {
+        "LeeSH": 1,
+        "Na": 1,
+        "Tetzloff": 1,
+        "MiyashitaM": 2,
+        "TuanS": 1
+      },
+      "Woo": {
+        "LeeSH": 3,
+        "Kleisen": 2
+      },
+      "ZhangW": {
+        "LeeSH": 1,
+        "Tetzloff": 1,
+        "TuanS": 1
+      },
+      "SunY": {
+        "Lin": 1,
+        "LeeSH": 1,
+        "Tetzloff": 1,
+        "MiyashitaM": 1,
+        "Huang": 1
+      },
+      "Yeletskiy": {
+        "KimSY": 1,
+        "Na": 2,
+        "Huang": 2,
+        "Duepree": 1
+      },
+      "JohannsonP": {
+        "ParkJH": 2,
+        "Yarden": 3
+      },
+      "Yarden": {
+        "ParkJH": 2,
+        "HuNY": 1,
+        "JohannsonP": 1,
+        "Huang": 2
+      },
+      "ParkJH": {
+        "Yarden": 3,
+        "JohannsonP": 2
+      }
+    }
+  },
+  "piece_plus": {
+    "n_samples": 303,
+    "n_classes": 60,
+    "chance": 0.016666666666666666,
+    "logreg": 0.10231023102310231,
+    "forest": 0.10891089108910891,
+    "top5": 0.3333333333333333,
+    "confusion": {
+      "LeeSH": {
+        "SunY": 1,
+        "SINKEV": 2,
+        "Ko": 2,
+        "Huang": 1
+      },
+      "MiyashitaM": {
+        "LuoJ": 1,
+        "LeeN": 1,
+        "Guo": 1,
+        "Sun": 1,
+        "TuanS": 1,
+        "Denisova": 1,
+        "Huang": 1,
+        "MiyashitaM": 2,
+        "Yarden": 1
+      },
+      "WangA": {
+        "ZhangE": 1,
+        "WuuE": 1,
+        "Shi": 1,
+        "Tetzloff": 1,
+        "Levitsky": 1
+      },
+      "Tetzloff": {
+        "Tetzloff": 1,
+        "Huang": 1,
+        "HuangSW": 1,
+        "Mizumoto": 1,
+        "Guo": 1,
+        "GarritsonL": 1,
+        "Duepree": 1
+      },
+      "SINKEV": {
+        "ADIG": 1,
+        "Shi": 1,
+        "MiyashitaM": 1,
+        "SINKEV": 1,
+        "JohannsonP": 1,
+        "SunY": 1,
+        "Nikiforov": 1
+      },
+      "Kleisen": {
+        "Jussow": 1,
+        "Tetzloff": 1,
+        "Lin": 1,
+        "KimSY": 1,
+        "HONG": 1,
+        "Song": 1
+      },
+      "Levitsky": {
+        "JeonH": 1,
+        "ADIG": 1,
+        "Zhdanov": 1,
+        "SINKEV": 2,
+        "HONG": 1,
+        "Mizumoto": 1,
+        "Ko": 1
+      },
+      "Lin": {
+        "Lin": 3,
+        "Dossin": 1,
+        "Richardson": 1,
+        "Song": 1,
+        "Mizumoto": 1,
+        "Levitsky": 1,
+        "LeeSH": 1
+      },
+      "Richardson": {
+        "Richardson": 2,
+        "LuoJ": 1,
+        "WangY": 1,
+        "Na": 1
+      },
+      "TuanS": {
+        "JeonH": 1,
+        "LeungM": 1,
+        "JohannsonP": 1,
+        "Duepree": 1,
+        "MiyashitaM": 1
+      },
+      "Guo": {
+        "Tetzloff": 1,
+        "Huang": 3,
+        "Na": 1
+      },
+      "JeonH": {
+        "WangA": 1,
+        "ZhangH": 1,
+        "Lin": 1,
+        "TuanS": 1,
+        "Na": 1
+      },
+      "Wong": {
+        "ZhangE": 1,
+        "Shybayeva": 1,
+        "Wong": 1
+      },
+      "LuoJ": {
+        "Kleisen": 1,
+        "Lin": 1,
+        "Duepree": 1,
+        "MiyashitaM": 1
+      },
+      "Song": {
+        "Richardson": 1,
+        "HONG": 1,
+        "Denisova": 1,
+        "Song": 1
+      },
+      "ZhangH": {
+        "SCHU": 1,
+        "Huang": 2,
+        "Lin": 1,
+        "WangA": 1,
+        "Woo": 1
+      },
+      "LeeN": {
+        "LEE_K": 1,
+        "Denisova": 1,
+        "KimSY": 1
+      },
+      "TongB": {
+        "Huang": 1,
+        "ParkJH": 1,
+        "LeeSH": 1
+      },
+      "Duepree": {
+        "Duepree": 3,
+        "SINKEV": 1,
+        "Levitsky": 1,
+        "ADIG": 1
+      },
+      "Huangci": {
+        "Duepree": 1,
+        "ZhangH": 1,
+        "WangA": 1,
+        "Levitsky": 1,
+        "Na": 1
+      },
+      "Na": {
+        "Teo": 1,
+        "Zhdanov": 1,
+        "Na": 2,
+        "Lin": 1,
+        "ZhangH": 1,
+        "WangA": 2,
+        "MiyashitaM": 1,
+        "Ko": 1
+      },
+      "HuNY": {
+        "Zuber": 1,
+        "Woo": 1,
+        "Levitsky": 1,
+        "HuNY": 1
+      },
+      "LEE_K": {
+        "Ko": 1,
+        "LEE_K": 3,
+        "MiyashitaM": 1
+      },
+      "HONG": {
+        "HONG": 2,
+        "Duepree": 1,
+        "Levitsky": 1,
+        "SCHU": 1,
+        "MiyashitaM": 1
+      },
+      "Huang": {
+        "ZhangE": 1,
+        "Na": 1,
+        "Huang": 4,
+        "SunY": 1,
+        "Lin": 1,
+        "ADIG": 1,
+        "ZhangH": 1,
+        "Yarden": 1,
+        "GarritsonL": 1,
+        "MiyashitaM": 1
+      },
+      "Zuber": {
+        "Wong": 1,
+        "Duepree": 1,
+        "HuangSW": 1,
+        "HuNY": 1,
+        "LEE_K": 1,
+        "SINKEV": 1
+      },
+      "ADIG": {
+        "Huang": 1,
+        "MiyashitaM": 1,
+        "Duepree": 1,
+        "Levitsky": 1,
+        "Lin": 1
+      },
+      "HuangSW": {
+        "Na": 1,
+        "MiyashitaM": 1,
+        "Stahievitch": 1,
+        "SINKEV": 1,
+        "LeeSH": 1,
+        "Huangci": 1
+      },
+      "Stahievitch": {
+        "Stahievitch": 1,
+        "WangA": 2,
+        "MiyashitaM": 1
+      },
+      "KOLESO": {
+        "MiyashitaM": 1,
+        "Shybayeva": 1,
+        "GarritsonL": 1
+      },
+      "WangY": {
+        "Yarden": 1,
+        "Teo": 1,
+        "Kleisen": 1
+      },
+      "Denisova": {
+        "Kociuban": 1,
+        "Shybayeva": 1,
+        "ADIG": 1,
+        "Yarden": 1
+      },
+      "Mizumoto": {
+        "Na": 2,
+        "Tetzloff": 1,
+        "Kleisen": 1,
+        "Lin": 1
+      },
+      "ZhangE": {
+        "ZhangH": 1,
+        "WuuE": 1,
+        "Huang": 1
+      },
+      "KaiRuiR": {
+        "Huang": 1,
+        "MiyashitaM": 1,
+        "Duepree": 1
+      },
+      "MunA": {
+        "SINKEV": 1,
+        "Shybayeva": 1,
+        "MiyashitaM": 1,
+        "Kleisen": 1
+      },
+      "Zhdanov": {
+        "SCHU": 1,
+        "Levitsky": 2,
+        "HuNY": 1
+      },
+      "WuuE": {
+        "Teo": 1,
+        "Ko": 1,
+        "Tetzloff": 1
+      },
+      "Shi": {
+        "Levitsky": 1,
+        "SINKEV": 1,
+        "Shybayeva": 1,
+        "LuoJ": 1,
+        "LeeSH": 1
+      },
+      "SCHU": {
+        "KimSY": 1,
+        "Na": 1,
+        "TuanS": 1,
+        "Tysman": 1
+      },
+      "Kociuban": {
+        "Duepree": 1,
+        "SINKEV": 2,
+        "Shi": 1,
+        "Levitsky": 1
+      },
+      "Sham": {
+        "Huang": 1,
+        "Woo": 1,
+        "Sun": 1
+      },
+      "Jussow": {
+        "Jussow": 1,
+        "MunA": 1,
+        "SINKEV": 1
+      },
+      "GarritsonL": {
+        "Huang": 3,
+        "Mizumoto": 1,
+        "WangA": 1
+      },
+      "Shybayeva": {
+        "MiyashitaM": 2,
+        "Denisova": 1,
+        "Yarden": 1,
+        "Nikiforov": 1
+      },
+      "KimSY": {
+        "LeeN": 1,
+        "Shi": 1,
+        "Lin": 1,
+        "MiyashitaM": 1,
+        "WangA": 1
+      },
+      "Tysman": {
+        "SCHU": 1,
+        "Huang": 1,
+        "Mizumoto": 1,
+        "Stahievitch": 1
+      },
+      "LeungM": {
+        "WangY": 2,
+        "LeungM": 1,
+        "Na": 2
+      },
+      "Sun": {
+        "TuanS": 1,
+        "Lin": 1,
+        "HONG": 1
+      },
+      "Teo": {
+        "WangY": 1,
+        "ParkJH": 1,
+        "Shybayeva": 1,
+        "GarritsonL": 1
+      },
+      "Dossin": {
+        "Yarden": 1,
+        "ParkJH": 1,
+        "Song": 1,
+        "Lin": 1
+      },
+      "Nikiforov": {
+        "HuangSW": 1,
+        "LeeSH": 1,
+        "MiyashitaM": 1,
+        "Levitsky": 1
+      },
+      "Ko": {
+        "LeeSH": 1,
+        "JohannsonP": 1,
+        "MiyashitaM": 1,
+        "Teo": 1,
+        "Levitsky": 1,
+        "SINKEV": 1
+      },
+      "Woo": {
+        "Levitsky": 1,
+        "ZhangH": 1,
+        "JohannsonP": 1,
+        "HONG": 1,
+        "MiyashitaM": 1
+      },
+      "ZhangW": {
+        "Lin": 2,
+        "Song": 1
+      },
+      "SunY": {
+        "Teo": 1,
+        "Huang": 2,
+        "Shi": 1,
+        "Na": 1
+      },
+      "Yeletskiy": {
+        "MiyashitaM": 2,
+        "MunA": 1,
+        "JohannsonP": 1,
+        "Shybayeva": 1,
+        "Yeletskiy": 1
+      },
+      "JohannsonP": {
+        "Levitsky": 1,
+        "Huang": 1,
+        "JohannsonP": 1,
+        "Kociuban": 1,
+        "Lin": 1
+      },
+      "Yarden": {
+        "Yeletskiy": 1,
+        "Tetzloff": 1,
+        "Guo": 1,
+        "Song": 1,
+        "Zuber": 1,
+        "LEE_K": 1
+      },
+      "ParkJH": {
+        "Sham": 1,
+        "LEE_K": 1,
+        "ADIG": 1,
+        "Na": 1,
+        "LuoJ": 1
+      }
+    }
+  },
+  "ablation": {
+    "asynchrony_beats_mean": 0.09240924092409242,
+    "asynchrony_beats_sd": 0.09900990099009903,
+    "melody_lead_beats_mean": 0.08250825082508251,
+    "melody_lead_beats_sd": 0.08910891089108912,
+    "frac_melody_first": 0.0858085808580858,
+    "ioi_cv": 0.08910891089108912,
+    "ioi_log_sd": 0.08910891089108912,
+    "ioi_ratio_p90_p10": 0.09900990099009903,
+    "velocity_sd": 0.09240924092409242,
+    "velocity_p90_p10": 0.099009900990099,
+    "melody_prominence": 0.07920792079207921
+  },
+  "features": [
+    "asynchrony_beats_mean",
+    "asynchrony_beats_sd",
+    "melody_lead_beats_mean",
+    "melody_lead_beats_sd",
+    "frac_melody_first",
+    "ioi_cv",
+    "ioi_log_sd",
+    "ioi_ratio_p90_p10",
+    "velocity_sd",
+    "velocity_p90_p10",
+    "melody_prominence"
+  ],
+  "min_performances": 5
+}

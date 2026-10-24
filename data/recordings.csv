@@ -1,0 +1,27 @@
+recording_id,pianist,year,provenance,duration,archive_item,audio_format,license,tier,notes
+ballade1_bradleyfulgoni_2018,Peter Bradley-Fulgoni,2018,IMSLP studio upload,8:54,https://imslp.org/wiki/Ballade_No.1%2C_Op.23_(Chopin%2C_Fr%C3%A9d%C3%A9ric),MP3,CC BY-NC-ND 4.0,A,Redistributable. Modern era.
+ballade1_renzi_2016,Simone Renzi,2016,IMSLP upload,9:21,https://imslp.org/wiki/Ballade_No.1%2C_Op.23_(Chopin%2C_Fr%C3%A9d%C3%A9ric),MP3,CC BY-NC-ND 4.0,A,Redistributable. Modern era.
+ballade1_stehlik_2008,Bohumir Stehlik,2008,IMSLP live Bergen NO,9:40,https://imslp.org/wiki/Ballade_No.1%2C_Op.23_(Chopin%2C_Fr%C3%A9d%C3%A9ric),MP3,CC BY 3.0,A,Redistributable. Live.
+ballade1_levy_musopen,Frank Levy,<=2010,Musopen via IMSLP,10:14,https://imslp.org/wiki/Ballade_No.1%2C_Op.23_(Chopin%2C_Fr%C3%A9d%C3%A9ric),MP3,CC BY 4.0,A,"Bounded by IMSLP upload 2010-11-08. Levy's 2014 Musopen sessions postdate it, so the usual c.2014 attribution is wrong for this file."
+ballade1_cortot_1926a,Alfred Cortot,1926,Victor NYC 1926-12-27,7:59,https://archive.org/details/mjhjt,FLAC,PD-US 2027-01-01,B,TRANSFER PAIR with cortot_1926b. FLAC.
+ballade1_cortot_1926b,Alfred Cortot,1926,Victor NYC 1926-12-27,8:28,https://archive.org/details/ChopinBalladeNo.1cortot,MP3/OGG,PD-US 2027-01-01,C,TRANSFER PAIR with cortot_1926a. 29s longer - check transfer speed.
+ballade1_cortot_1933,Alfred Cortot,1933,Victor M-399 1933-07-06/07,8:41,https://archive.org/details/CHOPINBallades-NEWTRANSFER,MP3/OGG,CC BY-NC-SA 3.0 claimed,C,SAME-PIANIST PAIR with cortot_1926a. 7 years apart.
+ballade1_cortot_1933_78,Alfred Cortot,1933,HMV DB2023 78rpm sides,,https://archive.org/details/78_ballade-no-1-in-g-minor-g-moll-op-23_alfred-cortot-chopin_gbia7002997a,FLAC/MP3,PD-US,D,Great 78 Project. Sides a+b must be stitched.
+ballade1_hofmann_1937,Josef Hofmann,1937,live Met Opera House NYC 1937-11-28,7:54,https://archive.org/details/chopin-op-23-hofmann,MP3,in copyright,C,Fastest in set. Live.
+ballade1_moiseiwitsch_1939_p1,Benno Moiseiwitsch,1939,HMV 78rpm side 1,,https://archive.org/details/78_ballade-no-1-part-1_benno-moiseiwitsch-chopin_gbia7003812a,FLAC/MP3,PD-US,D,PRESSING PAIR with gbia7012288a. Needs side stitching.
+ballade1_moiseiwitsch_1939_p1alt,Benno Moiseiwitsch,1939,HMV 78rpm side 1 alt pressing,,https://archive.org/details/78_ballade-no-1-part-1_benno-moiseiwitsch-chopin_gbia7012288a,FLAC/MP3,PD-US,D,PRESSING PAIR with gbia7003812a.
+ballade1_francois_1946,Samson Francois,1946,,8:53,https://archive.org/details/htrs_20250220,FLAC,in copyright,B,FLAC.
+ballade1_janis_1952,Byron Janis,1952,,9:26,https://archive.org/details/gfte_20250308,FLAC,in copyright,B,FLAC.
+ballade1_horowitz_1953,Vladimir Horowitz,1953,RCA LP,,https://archive.org/details/lp_sonata-in-b-flat-minor-op35-ballade-n-1-i_vladimir-horowitz-frederic-chopin,stream only,in copyright,C,SAME-PIANIST PAIR with horowitz_1965. Lending library - may not be downloadable.
+ballade1_rubinstein_1959,Arthur Rubinstein,1959,RCA 1959-04-28/29,9:23,https://archive.org/details/ChopinBalladeNo.1rubinstein-bmg,MP3/OGG,in copyright,C,
+ballade1_richter_1960,Sviatoslav Richter,1960,live Prague 1960-02-21,8:49,https://archive.org/details/ChopinBalladeNo.1richter-prague1960,MP3/OGG,in copyright,C,Live.
+ballade1_michelangeli_1963,Arturo Benedetti Michelangeli,1963,,9:18,https://archive.org/details/gtwh_20250213,FLAC,in copyright,B,FLAC. Maximal control contrast vs Cortot.
+ballade1_horowitz_1965,Vladimir Horowitz,1965,live Carnegie Hall 1965-05-09,8:58,https://archive.org/details/ChopinBalladeNo.1horowitz1965Ch,MP3/OGG,in copyright,C,SAME-PIANIST PAIR with horowitz_1953. Live.
+ballade1_anievas_1975,Agustin Anievas,1975,EMI 1975-06,8:18,https://archive.org/details/ChopinBalladeNo.1anievas-emi,MP3/OGG,in copyright,C,
+ballade1_gavrilov_1990,Andrei Gavrilov,1990,,8:55,https://archive.org/details/gftj_20250301,FLAC,in copyright,B,FLAC. Newest historical entry.
+ballade1_gilels_unknown,Emil Gilels,unknown,,8:12,https://archive.org/details/ChopinBalladeOp.23Gilels,MP3/OGG,in copyright,C,"UNRESOLVED. Gilels Foundation lists studio 1946/1948 and live 1963, 1965, 1972, 1975 - spans four decades. EXCLUDE from the decade probe until matched by duration or audition."
+ballade1_karolyi_unknown,Julian von Karolyi,1952,DG 1952,,https://archive.org/details/chopin-ballades-1-4-julian-von-karolyi-dvg,FLAC/MP3,in copyright,C,Resolved: DG studio 1952 (multiple sources agree).
+ballade1_hambourg_unknown,Mark Hambourg,1926?,HMV C1290 matrix 05942,,https://archive.org/details/78_ballade-no-1-in-g-minor-op-23-first-record_mark-hambourg-chopin_gbia7040575a,FLAC/MP3,PD-US likely,D,Resolved to DECADE only: sources split 1926 (Kingsway Hall 14 Sep) vs 1928. 1920s either way - usable for the decade probe. Needs side stitching.
+ballade1_kasik_unknown,Martin Kasik,2024?,ArcoDiva UP0255?,9:22,https://archive.org/details/chopin_ballade1_kasik,MP3,unclear,C,"Duration 9:22 matches the 2024 Ballades & Scherzos track exactly; he also recorded it in 2012. Flagged, not confirmed."
+ballade1_baldocci_unknown,Gabriele Baldocci,<=2009,,9:15,https://archive.org/details/Chopin-PianoBalladeN.1,MP3/OGG,unclear,C,"Bounded by Archive upload 2009-07-26. A ""recorded 2010"" claim elsewhere postdates the upload and cannot be this file. 2000s decade."
+ballade1_paderewski_roll,Ignacy Jan Paderewski,c1920s,Duo-Art roll via Everest X-902,,https://archive.org/details/08-ballade-no-1-in-g-minor-op-23,FLAC/MP3,PD-US roll,E,Piano roll - symbolic already. Roll playback speed is an engineering choice not a tempo.

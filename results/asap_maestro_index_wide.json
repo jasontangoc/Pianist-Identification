@@ -1,0 +1,2702 @@
+[
+ {
+  "performer": "SINKEV",
+  "work": "Bach/Prelude/bwv_885",
+  "session": "2004/MIDI-Unprocessed_SMF_17_R1_2004_01-02_ORIG_MID--AUDIO_20_R2_2004_02_Track02_wav.wav",
+  "midi": "Bach/Prelude/bwv_885/SINKEV06.mid",
+  "start": 0.0,
+  "end": 165.20729166666666,
+  "duration_s": 165.20729166666666,
+  "key": "2c4ede1b5fa0ceb6"
+ },
+ {
+  "performer": "SINKEV",
+  "work": "Bach/Fugue/bwv_885",
+  "session": "2004/MIDI-Unprocessed_SMF_17_R1_2004_01-02_ORIG_MID--AUDIO_20_R2_2004_02_Track02_wav.wav",
+  "midi": "Bach/Fugue/bwv_885/SINKEV06.mid",
+  "start": 167.04375,
+  "end": 311.725576133,
+  "duration_s": 144.68182613300002,
+  "key": "8bb7a0a91f67e43a"
+ },
+ {
+  "performer": "SINKEV",
+  "work": "Schubert/Piano_Sonatas/894-2_no_repeat",
+  "session": "2004/MIDI-Unprocessed_XP_20_R2_2004_01_ORIG_MID--AUDIO_20_R1_2004_02_Track02_wav.wav",
+  "midi": "Schubert/Piano_Sonatas/894-2_no_repeat/SINKEV12M.mid",
+  "start": 0.0,
+  "end": 433.1782093,
+  "duration_s": 433.1782093,
+  "key": "4512a8e538d5803a"
+ },
+ {
+  "performer": "Na",
+  "work": "Beethoven/Piano_Sonatas/31-1",
+  "session": "2006/MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_02_Track02_wav.wav",
+  "midi": "Beethoven/Piano_Sonatas/31-1/Na06M.mid",
+  "start": 0.0,
+  "end": 357.31901041666663,
+  "duration_s": 357.31901041666663,
+  "key": "42d1a7cb84c2e043"
+ },
+ {
+  "performer": "Na",
+  "work": "Beethoven/Piano_Sonatas/31-3_4",
+  "session": "2006/MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_02_Track02_wav.wav",
+  "midi": "Beethoven/Piano_Sonatas/31-3_4/Na06M.mid",
+  "start": 473.3502604166666,
+  "end": 1075.70805891,
+  "duration_s": 602.3577984933336,
+  "key": "38a13c1c8d1a57c8"
+ },
+ {
+  "performer": "Na",
+  "work": "Balakirev/Islamey",
+  "session": "2006/MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_05_Track05_wav.wav",
+  "midi": "Balakirev/Islamey/Na08M.mid",
+  "start": 0.0,
+  "end": 491.751645,
+  "duration_s": 491.751645,
+  "key": "16857c5464249e4f"
+ },
+ {
+  "performer": "Na",
+  "work": "Chopin/Barcarolle",
+  "session": "2006/MIDI-Unprocessed_13_R1_2006_01-06_ORIG_MID--AUDIO_13_R1_2006_06_Track06_wav.wav",
+  "midi": "Chopin/Barcarolle/Na09M.mid",
+  "start": 0.0,
+  "end": 486.925260938,
+  "duration_s": 486.925260938,
+  "key": "9963ef5c099f9bea"
+ },
+ {
+  "performer": "Denisova",
+  "work": "Bach/Prelude/bwv_848",
+  "session": "2008/MIDI-Unprocessed_02_R1_2008_01-05_ORIG_MID--AUDIO_02_R1_2008_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_848/Denisova06M.mid",
+  "start": 0.0,
+  "end": 68.82421875,
+  "duration_s": 68.82421875,
+  "key": "4040b32ffb809a65"
+ },
+ {
+  "performer": "Denisova",
+  "work": "Bach/Fugue/bwv_848",
+  "session": "2008/MIDI-Unprocessed_02_R1_2008_01-05_ORIG_MID--AUDIO_02_R1_2008_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_848/Denisova06M.mid",
+  "start": 69.31770833333333,
+  "end": 180.019852031,
+  "duration_s": 110.70214369766667,
+  "key": "eb4cd61239c4a450"
+ },
+ {
+  "performer": "Denisova",
+  "work": "Glinka/The_Lark",
+  "session": "2008/MIDI-Unprocessed_02_R1_2008_01-05_ORIG_MID--AUDIO_02_R1_2008_wav--5.wav",
+  "midi": "Glinka/The_Lark/Denisova10M.mid",
+  "start": 0.0,
+  "end": 326.59155375,
+  "duration_s": 326.59155375,
+  "key": "997bbea6e7e80bf2"
+ },
+ {
+  "performer": "Denisova",
+  "work": "Schubert/Impromptu_op.90_D.899/2",
+  "session": "2008/MIDI-Unprocessed_02_R2_2008_01-05_ORIG_MID--AUDIO_02_R2_2008_wav--1.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/2/Denisova11M.mid",
+  "start": 0.0,
+  "end": 223.212917812,
+  "duration_s": 223.212917812,
+  "key": "40b9fc6c4e350cbd"
+ },
+ {
+  "performer": "Denisova",
+  "work": "Chopin/Ballades/2",
+  "session": "2008/MIDI-Unprocessed_02_R3_2008_01-03_ORIG_MID--AUDIO_02_R3_2008_wav--2.wav",
+  "midi": "Chopin/Ballades/2/Denisova17M.mid",
+  "start": 0.0,
+  "end": 340.642020469,
+  "duration_s": 340.642020469,
+  "key": "05b1f7abf398fb5a"
+ },
+ {
+  "performer": "Duepree",
+  "work": "Beethoven/Piano_Sonatas/23-1",
+  "session": "2008/MIDI-Unprocessed_03_R1_2008_01-04_ORIG_MID--AUDIO_03_R1_2008_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/23-1/Duepree05M.mid",
+  "start": 0.0,
+  "end": 593.318049844,
+  "duration_s": 593.318049844,
+  "key": "cc9df3834212954b"
+ },
+ {
+  "performer": "Duepree",
+  "work": "Chopin/Etudes_op_10/4",
+  "session": "2008/MIDI-Unprocessed_03_R1_2008_01-04_ORIG_MID--AUDIO_03_R1_2008_wav--3.wav",
+  "midi": "Chopin/Etudes_op_10/4/Duepree06M.mid",
+  "start": 0.0,
+  "end": 124.61526,
+  "duration_s": 124.61526,
+  "key": "4bf0c93d3dec0821"
+ },
+ {
+  "performer": "Duepree",
+  "work": "Schubert/Impromptu_op.90_D.899/1",
+  "session": "2008/MIDI-Unprocessed_03_R2_2008_01-03_ORIG_MID--AUDIO_03_R2_2008_wav--1.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/1/Duepree08M.mid",
+  "start": 0.0,
+  "end": 532.502138437,
+  "duration_s": 532.502138437,
+  "key": "3a47be1d411e90f9"
+ },
+ {
+  "performer": "Huang",
+  "work": "Bach/Prelude/bwv_885",
+  "session": "2008/MIDI-Unprocessed_04_R1_2008_01-04_ORIG_MID--AUDIO_04_R1_2008_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_885/Huang04M.mid",
+  "start": 0.0,
+  "end": 158.56640625,
+  "duration_s": 158.56640625,
+  "key": "a19bee28f4a1378d"
+ },
+ {
+  "performer": "Huang",
+  "work": "Bach/Fugue/bwv_885",
+  "session": "2008/MIDI-Unprocessed_04_R1_2008_01-04_ORIG_MID--AUDIO_04_R1_2008_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_885/Huang04M.mid",
+  "start": 160.31510416666666,
+  "end": 349.715195156,
+  "duration_s": 189.40009098933334,
+  "key": "10202eb570f1560f"
+ },
+ {
+  "performer": "Huang",
+  "work": "Haydn/Keyboard_Sonatas/50-1_no_repeat",
+  "session": "2008/MIDI-Unprocessed_04_R1_2008_01-04_ORIG_MID--AUDIO_04_R1_2008_wav--2.wav",
+  "midi": "Haydn/Keyboard_Sonatas/50-1_no_repeat/Huang05M.mid",
+  "start": 0.0,
+  "end": 325.782259688,
+  "duration_s": 325.782259688,
+  "key": "8e5269e093bb0cc6"
+ },
+ {
+  "performer": "Huang",
+  "work": "Schubert/Impromptu_op.90_D.899/4_no_repeat",
+  "session": "2008/MIDI-Unprocessed_04_R2_2008_01-04_ORIG_MID--AUDIO_04_R2_2008_wav--3.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/4_no_repeat/Huang10M.mid",
+  "start": 0.0,
+  "end": 400.711404844,
+  "duration_s": 400.711404844,
+  "key": "3a7136304e6a53ad"
+ },
+ {
+  "performer": "Huang",
+  "work": "Liszt/Transcendental_Etudes/4",
+  "session": "2008/MIDI-Unprocessed_04_R3_2008_01-07_ORIG_MID--AUDIO_04_R3_2008_wav--4.wav",
+  "midi": "Liszt/Transcendental_Etudes/4/Huang15M.mid",
+  "start": 0.0,
+  "end": 494.709708281,
+  "duration_s": 494.709708281,
+  "key": "a8016504efb9c705"
+ },
+ {
+  "performer": "Huang",
+  "work": "Liszt/Transcendental_Etudes/5",
+  "session": "2008/MIDI-Unprocessed_04_R3_2008_01-07_ORIG_MID--AUDIO_04_R3_2008_wav--5.wav",
+  "midi": "Liszt/Transcendental_Etudes/5/Huang16M.mid",
+  "start": 0.0,
+  "end": 226.426055625,
+  "duration_s": 226.426055625,
+  "key": "503cec3dff899140"
+ },
+ {
+  "performer": "Huang",
+  "work": "Liszt/Transcendental_Etudes/10",
+  "session": "2008/MIDI-Unprocessed_04_R3_2008_01-07_ORIG_MID--AUDIO_04_R3_2008_wav--6.wav",
+  "midi": "Liszt/Transcendental_Etudes/10/Huang17M.mid",
+  "start": 0.0,
+  "end": 305.818337344,
+  "duration_s": 305.818337344,
+  "key": "679bcc8763c16e29"
+ },
+ {
+  "performer": "Kleisen",
+  "work": "Bach/Prelude/bwv_893",
+  "session": "2008/MIDI-Unprocessed_06_R1_2008_01-04_ORIG_MID--AUDIO_06_R1_2008_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_893/Kleisen04M.mid",
+  "start": 0.0,
+  "end": 130.49869791666666,
+  "duration_s": 130.49869791666666,
+  "key": "9798c4cfaa5a8d26"
+ },
+ {
+  "performer": "Kleisen",
+  "work": "Bach/Fugue/bwv_893",
+  "session": "2008/MIDI-Unprocessed_06_R1_2008_01-04_ORIG_MID--AUDIO_06_R1_2008_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_893/Kleisen04M.mid",
+  "start": 134.12239583333331,
+  "end": 223.900684219,
+  "duration_s": 89.77828838566668,
+  "key": "df57ff4db3fe42b9"
+ },
+ {
+  "performer": "Kleisen",
+  "work": "Liszt/Concert_Etude_S145/1",
+  "session": "2008/MIDI-Unprocessed_06_R1_2008_01-04_ORIG_MID--AUDIO_06_R1_2008_wav--3.wav",
+  "midi": "Liszt/Concert_Etude_S145/1/Kleisen06M.mid",
+  "start": 0.0,
+  "end": 215.734292813,
+  "duration_s": 215.734292813,
+  "key": "63fa2290bf9af38b"
+ },
+ {
+  "performer": "Kleisen",
+  "work": "Glinka/The_Lark",
+  "session": "2008/MIDI-Unprocessed_06_R1_2008_01-04_ORIG_MID--AUDIO_06_R1_2008_wav--4.wav",
+  "midi": "Glinka/The_Lark/Kleisen07M.mid",
+  "start": 0.0,
+  "end": 294.372034687,
+  "duration_s": 294.372034687,
+  "key": "384d276f1684bef7"
+ },
+ {
+  "performer": "Kleisen",
+  "work": "Schubert/Impromptu_op142/1",
+  "session": "2008/MIDI-Unprocessed_06_R2_2008_01-05_ORIG_MID--AUDIO_06_R2_2008_wav--3.wav",
+  "midi": "Schubert/Impromptu_op142/1/Kleisen10M.mid",
+  "start": 0.0,
+  "end": 584.943325313,
+  "duration_s": 584.943325313,
+  "key": "6c75e10c73ab4995"
+ },
+ {
+  "performer": "Ko",
+  "work": "Bach/Fugue/bwv_860",
+  "session": "2008/MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_860/Ko04M.mid",
+  "start": 50.91145833333333,
+  "end": 218.721736406,
+  "duration_s": 167.81027807266668,
+  "key": "ff3f57282813ef1d"
+ },
+ {
+  "performer": "Ko",
+  "work": "Beethoven/Piano_Sonatas/27-1",
+  "session": "2008/MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/27-1/Ko05M.mid",
+  "start": 0.0,
+  "end": 308.53601625,
+  "duration_s": 308.53601625,
+  "key": "22e04db2c1a0457a"
+ },
+ {
+  "performer": "Ko",
+  "work": "Scriabin/Sonatas/5",
+  "session": "2008/MIDI-Unprocessed_07_R1_2008_01-04_ORIG_MID--AUDIO_07_R1_2008_wav--4.wav",
+  "midi": "Scriabin/Sonatas/5/Ko07M.mid",
+  "start": 0.0,
+  "end": 601.648703906,
+  "duration_s": 601.648703906,
+  "key": "b8afb80910118a16"
+ },
+ {
+  "performer": "Ko",
+  "work": "Schubert/Impromptu_op.90_D.899/3",
+  "session": "2008/MIDI-Unprocessed_07_R2_2008_01-05_ORIG_MID--AUDIO_07_R2_2008_wav--1.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/3/Ko08M.mid",
+  "start": 0.0,
+  "end": 375.151868438,
+  "duration_s": 375.151868438,
+  "key": "7ff6f5a9842ea13f"
+ },
+ {
+  "performer": "Levitsky",
+  "work": "Bach/Prelude/bwv_893",
+  "session": "2008/MIDI-Unprocessed_09_R1_2008_01-05_ORIG_MID--AUDIO_09_R1_2008_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_893/Levitsky04M.mid",
+  "start": 0.0,
+  "end": 135.67447916666666,
+  "duration_s": 135.67447916666666,
+  "key": "c28bd69df910490a"
+ },
+ {
+  "performer": "Levitsky",
+  "work": "Bach/Fugue/bwv_893",
+  "session": "2008/MIDI-Unprocessed_09_R1_2008_01-05_ORIG_MID--AUDIO_09_R1_2008_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_893/Levitsky04M.mid",
+  "start": 136.6484375,
+  "end": 224.950362656,
+  "duration_s": 88.30192515600001,
+  "key": "96e5828e13a9d018"
+ },
+ {
+  "performer": "Levitsky",
+  "work": "Beethoven/Piano_Sonatas/18-1",
+  "session": "2008/MIDI-Unprocessed_09_R1_2008_01-05_ORIG_MID--AUDIO_09_R1_2008_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/18-1/Levitsky05M.mid",
+  "start": 0.0,
+  "end": 351.670321406,
+  "duration_s": 351.670321406,
+  "key": "ffcaa3c03a86c954"
+ },
+ {
+  "performer": "Levitsky",
+  "work": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella",
+  "session": "2008/MIDI-Unprocessed_09_R1_2008_01-05_ORIG_MID--AUDIO_09_R1_2008_wav--3.wav",
+  "midi": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella/Levitsky06M.mid",
+  "start": 0.0,
+  "end": 273.16212,
+  "duration_s": 273.16212,
+  "key": "8d257af8ae85089c"
+ },
+ {
+  "performer": "Levitsky",
+  "work": "Schubert/Impromptu_op.90_D.899/2",
+  "session": "2008/MIDI-Unprocessed_09_R2_2008_01-05_ORIG_MID--AUDIO_09_R2_2008_wav--1.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/2/Levitsky09M.mid",
+  "start": 0.0,
+  "end": 264.608442656,
+  "duration_s": 264.608442656,
+  "key": "7cbd1b063f93330d"
+ },
+ {
+  "performer": "Levitsky",
+  "work": "Chopin/Ballades/4",
+  "session": "2008/MIDI-Unprocessed_09_R3_2008_01-07_ORIG_MID--AUDIO_09_R3_2008_wav--5.wav",
+  "midi": "Chopin/Ballades/4/Levitsky18M.mid",
+  "start": 0.0,
+  "end": 628.508986875,
+  "duration_s": 628.508986875,
+  "key": "7d3b14bc27a7bfa2"
+ },
+ {
+  "performer": "Lin",
+  "work": "Bach/Prelude/bwv_848",
+  "session": "2008/MIDI-Unprocessed_10_R1_2008_01-04_ORIG_MID--AUDIO_10_R1_2008_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_848/Lin04M.mid",
+  "start": 0.0,
+  "end": 72.80598958333333,
+  "duration_s": 72.80598958333333,
+  "key": "3cc09a84e7e032dc"
+ },
+ {
+  "performer": "Lin",
+  "work": "Bach/Fugue/bwv_848",
+  "session": "2008/MIDI-Unprocessed_10_R1_2008_01-04_ORIG_MID--AUDIO_10_R1_2008_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_848/Lin04M.mid",
+  "start": 75.37369791666666,
+  "end": 195.688906875,
+  "duration_s": 120.31520895833333,
+  "key": "074f5d219f317acb"
+ },
+ {
+  "performer": "Lin",
+  "work": "Beethoven/Piano_Sonatas/3-1",
+  "session": "2008/MIDI-Unprocessed_10_R1_2008_01-04_ORIG_MID--AUDIO_10_R1_2008_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/3-1/Lin05M.mid",
+  "start": 0.0,
+  "end": 430.0636725,
+  "duration_s": 430.0636725,
+  "key": "3bdd555e49bd8a42"
+ },
+ {
+  "performer": "Lin",
+  "work": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella",
+  "session": "2008/MIDI-Unprocessed_10_R1_2008_01-04_ORIG_MID--AUDIO_10_R1_2008_wav--4.wav",
+  "midi": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella/Lin07M.mid",
+  "start": 0.0,
+  "end": 265.471155469,
+  "duration_s": 265.471155469,
+  "key": "fec2dd32bbdbfe7b"
+ },
+ {
+  "performer": "Lin",
+  "work": "Schubert/Impromptu_op.90_D.899/4_no_repeat",
+  "session": "2008/MIDI-Unprocessed_10_R2_2008_01-05_ORIG_MID--AUDIO_10_R2_2008_wav--4.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/4_no_repeat/Lin11M.mid",
+  "start": 0.0,
+  "end": 342.504999375,
+  "duration_s": 342.504999375,
+  "key": "79cf9c7fcada95a7"
+ },
+ {
+  "performer": "Lisiecki",
+  "work": "Bach/Prelude/bwv_857",
+  "session": "2008/MIDI-Unprocessed_11_R1_2008_01-04_ORIG_MID--AUDIO_11_R1_2008_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_857/Lisiecki04M.mid",
+  "start": 0.0,
+  "end": 110.06380208333331,
+  "duration_s": 110.06380208333331,
+  "key": "47dafac7379a1957"
+ },
+ {
+  "performer": "Lisiecki",
+  "work": "Bach/Fugue/bwv_857",
+  "session": "2008/MIDI-Unprocessed_11_R1_2008_01-04_ORIG_MID--AUDIO_11_R1_2008_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_857/Lisiecki04M.mid",
+  "start": 113.3984375,
+  "end": 336.694374844,
+  "duration_s": 223.29593734399998,
+  "key": "85da6119b7c877d5"
+ },
+ {
+  "performer": "Lisiecki",
+  "work": "Chopin/Etudes_op_25/11",
+  "session": "2008/MIDI-Unprocessed_11_R1_2008_01-04_ORIG_MID--AUDIO_11_R1_2008_wav--4.wav",
+  "midi": "Chopin/Etudes_op_25/11/Lisiecki07M.mid",
+  "start": 0.0,
+  "end": 238.691000625,
+  "duration_s": 238.691000625,
+  "key": "56a966bf83e6c793"
+ },
+ {
+  "performer": "Lisiecki",
+  "work": "Schubert/Impromptu_op142/1",
+  "session": "2008/MIDI-Unprocessed_11_R2_2008_01-05_ORIG_MID--AUDIO_11_R2_2008_wav--3.wav",
+  "midi": "Schubert/Impromptu_op142/1/Lisiecki10M.mid",
+  "start": 0.0,
+  "end": 635.781949688,
+  "duration_s": 635.781949688,
+  "key": "072064d973a8fb85"
+ },
+ {
+  "performer": "Nikiforov",
+  "work": "Bach/Fugue/bwv_860",
+  "session": "2008/MIDI-Unprocessed_12_R1_2008_01-04_ORIG_MID--AUDIO_12_R1_2008_wav--2.wav",
+  "midi": "Bach/Fugue/bwv_860/Nikiforov05M.mid",
+  "start": 50.96744791666666,
+  "end": 220.113294844,
+  "duration_s": 169.14584692733334,
+  "key": "165e814528e3f510"
+ },
+ {
+  "performer": "Nikiforov",
+  "work": "Schubert/Impromptu_op.90_D.899/2",
+  "session": "2008/MIDI-Unprocessed_12_R2_2008_01-04_ORIG_MID--AUDIO_12_R2_2008_wav--2.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/2/Nikiforov09M.mid",
+  "start": 0.0,
+  "end": 274.862171719,
+  "duration_s": 274.862171719,
+  "key": "479321e76fb49133"
+ },
+ {
+  "performer": "Nikiforov",
+  "work": "Chopin/Ballades/4",
+  "session": "2008/MIDI-Unprocessed_12_R3_2008_01-04_ORIG_MID--AUDIO_12_R3_2008_wav--2.wav",
+  "midi": "Chopin/Ballades/4/Nikiforov13M.mid",
+  "start": 0.0,
+  "end": 616.031702344,
+  "duration_s": 616.031702344,
+  "key": "9d51306c4a9ef48b"
+ },
+ {
+  "performer": "Tetzloff",
+  "work": "Bach/Fugue/bwv_860",
+  "session": "2008/MIDI-Unprocessed_15_R1_2008_01-04_ORIG_MID--AUDIO_15_R1_2008_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_860/Tetzloff04M.mid",
+  "start": 51.00651041666666,
+  "end": 214.034241094,
+  "duration_s": 163.02773067733335,
+  "key": "120b0b9c3af7cbb7"
+ },
+ {
+  "performer": "Tetzloff",
+  "work": "Beethoven/Piano_Sonatas/21-1_no_repeat",
+  "session": "2008/MIDI-Unprocessed_15_R1_2008_01-04_ORIG_MID--AUDIO_15_R1_2008_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/21-1_no_repeat/Tetzloff05M.mid",
+  "start": 0.0,
+  "end": 481.751655,
+  "duration_s": 481.751655,
+  "key": "08c82f5395284924"
+ },
+ {
+  "performer": "Tetzloff",
+  "work": "Chopin/Ballades/2",
+  "session": "2008/MIDI-Unprocessed_15_R1_2008_01-04_ORIG_MID--AUDIO_15_R1_2008_wav--3.wav",
+  "midi": "Chopin/Ballades/2/Tetzloff06M.mid",
+  "start": 0.0,
+  "end": 411.467270156,
+  "duration_s": 411.467270156,
+  "key": "e41c45205803b78b"
+ },
+ {
+  "performer": "Tetzloff",
+  "work": "Chopin/Etudes_op_10/8",
+  "session": "2008/MIDI-Unprocessed_15_R1_2008_01-04_ORIG_MID--AUDIO_15_R1_2008_wav--4.wav",
+  "midi": "Chopin/Etudes_op_10/8/Tetzloff07M.mid",
+  "start": 0.0,
+  "end": 135.18148875,
+  "duration_s": 135.18148875,
+  "key": "96e4ff340480aee5"
+ },
+ {
+  "performer": "WangA",
+  "work": "Bach/Prelude/bwv_880",
+  "session": "2008/MIDI-Unprocessed_16_R1_2008_01-04_ORIG_MID--AUDIO_16_R1_2008_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_880/WangA04M.mid",
+  "start": 0.0,
+  "end": 168.15234375,
+  "duration_s": 168.15234375,
+  "key": "53f86b77381f4ae1"
+ },
+ {
+  "performer": "WangA",
+  "work": "Bach/Fugue/bwv_880",
+  "session": "2008/MIDI-Unprocessed_16_R1_2008_01-04_ORIG_MID--AUDIO_16_R1_2008_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_880/WangA04M.mid",
+  "start": 170.26822916666666,
+  "end": 269.760681094,
+  "duration_s": 99.49245192733335,
+  "key": "e7b0f04a4cbaceed"
+ },
+ {
+  "performer": "Woo",
+  "work": "Beethoven/Piano_Sonatas/16-1",
+  "session": "2008/MIDI-Unprocessed_17_R1_2008_01-04_ORIG_MID--AUDIO_17_R1_2008_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/16-1/Woo05M.mid",
+  "start": 0.0,
+  "end": 277.578515156,
+  "duration_s": 277.578515156,
+  "key": "869cd3bef2404c7a"
+ },
+ {
+  "performer": "Woo",
+  "work": "Liszt/Concert_Etude_S145/1",
+  "session": "2008/MIDI-Unprocessed_17_R1_2008_01-04_ORIG_MID--AUDIO_17_R1_2008_wav--3.wav",
+  "midi": "Liszt/Concert_Etude_S145/1/Woo06M.mid",
+  "start": 0.0,
+  "end": 228.45062625,
+  "duration_s": 228.45062625,
+  "key": "f9e36d2ae36d0af8"
+ },
+ {
+  "performer": "Woo",
+  "work": "Schubert/Impromptu_op.90_D.899/3",
+  "session": "2008/MIDI-Unprocessed_17_R2_2008_01-04_ORIG_MID--AUDIO_17_R2_2008_wav--3.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/3/Woo10M.mid",
+  "start": 0.0,
+  "end": 300.25611,
+  "duration_s": 300.25611,
+  "key": "01c88e7a64160052"
+ },
+ {
+  "performer": "ZhangH",
+  "work": "Bach/Fugue/bwv_860",
+  "session": "2008/MIDI-Unprocessed_18_R1_2008_01-04_ORIG_MID--AUDIO_18_R1_2008_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_860/ZhangH04M.mid",
+  "start": 51.25260416666666,
+  "end": 215.842465781,
+  "duration_s": 164.58986161433333,
+  "key": "e80d8f4498ebb5c2"
+ },
+ {
+  "performer": "ZhangH",
+  "work": "Beethoven/Piano_Sonatas/18-1",
+  "session": "2008/MIDI-Unprocessed_18_R1_2008_01-04_ORIG_MID--AUDIO_18_R1_2008_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/18-1/ZhangH05M.mid",
+  "start": 0.0,
+  "end": 352.347404063,
+  "duration_s": 352.347404063,
+  "key": "05eb95f5d202c21f"
+ },
+ {
+  "performer": "ZhangH",
+  "work": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella",
+  "session": "2008/MIDI-Unprocessed_18_R1_2008_01-04_ORIG_MID--AUDIO_18_R1_2008_wav--4.wav",
+  "midi": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella/ZhangH07M.mid",
+  "start": 0.0,
+  "end": 269.971685156,
+  "duration_s": 269.971685156,
+  "key": "92369097fc55031f"
+ },
+ {
+  "performer": "Lee",
+  "work": "Schubert/Piano_Sonatas/894-2_no_repeat",
+  "session": "2009/MIDI-Unprocessed_08_R2_2009_01_ORIG_MID--AUDIO_08_R2_2009_08_R2_2009_02_WAV.wav",
+  "midi": "Schubert/Piano_Sonatas/894-2_no_repeat/Lee10M.mid",
+  "start": 0.0,
+  "end": 410.555145,
+  "duration_s": 410.555145,
+  "key": "af6b31642376d0d9"
+ },
+ {
+  "performer": "Na",
+  "work": "Scriabin/Sonatas/5",
+  "session": "2009/MIDI-Unprocessed_09_R1_2009_01-04_ORIG_MID--AUDIO_09_R1_2009_09_R1_2009_04_WAV.wav",
+  "midi": "Scriabin/Sonatas/5/Na07M.mid",
+  "start": 0.0,
+  "end": 706.203887813,
+  "duration_s": 706.203887813,
+  "key": "274e3bfb15e14b0a"
+ },
+ {
+  "performer": "Kurz",
+  "work": "Bach/Fugue/bwv_874",
+  "session": "2011/MIDI-Unprocessed_01_R1_2011_MID--AUDIO_R1-D1_03_Track03_wav.wav",
+  "midi": "Bach/Fugue/bwv_874/Kurz01M.mid",
+  "start": 0.0,
+  "end": 171.830757656,
+  "duration_s": 171.830757656,
+  "key": "6fd69b58b89c7036"
+ },
+ {
+  "performer": "Kurz",
+  "work": "Chopin/Etudes_op_10/4",
+  "session": "2011/MIDI-Unprocessed_01_R1_2011_MID--AUDIO_R1-D1_05_Track05_wav.wav",
+  "midi": "Chopin/Etudes_op_10/4/Kurz03M.mid",
+  "start": 0.0,
+  "end": 122.391704531,
+  "duration_s": 122.391704531,
+  "key": "496c7c37a7044bf5"
+ },
+ {
+  "performer": "Kurz",
+  "work": "Chopin/Scherzos/20",
+  "session": "2011/MIDI-Unprocessed_01_R1_2011_MID--AUDIO_R1-D1_06_Track06_wav.wav",
+  "midi": "Chopin/Scherzos/20/Kurz04M.mid",
+  "start": 0.0,
+  "end": 506.0037675,
+  "duration_s": 506.0037675,
+  "key": "2f2ec08706a0d3df"
+ },
+ {
+  "performer": "Zhou",
+  "work": "Bach/Prelude/bwv_848",
+  "session": "2011/MIDI-Unprocessed_04_R1_2011_MID--AUDIO_R1-D2_02_Track02_wav.wav",
+  "midi": "Bach/Prelude/bwv_848/Zhou01M.mid",
+  "start": 0.0,
+  "end": 68.11979166666666,
+  "duration_s": 68.11979166666666,
+  "key": "424b4b15d465d1bb"
+ },
+ {
+  "performer": "Zhou",
+  "work": "Bach/Fugue/bwv_848",
+  "session": "2011/MIDI-Unprocessed_04_R1_2011_MID--AUDIO_R1-D2_02_Track02_wav.wav",
+  "midi": "Bach/Fugue/bwv_848/Zhou01M.mid",
+  "start": 68.796875,
+  "end": 208.378530937,
+  "duration_s": 139.581655937,
+  "key": "0df44c180086edec"
+ },
+ {
+  "performer": "Zhou",
+  "work": "Chopin/Etudes_op_10/8",
+  "session": "2011/MIDI-Unprocessed_04_R1_2011_MID--AUDIO_R1-D2_04_Track04_wav.wav",
+  "midi": "Chopin/Etudes_op_10/8/Zhou03M.mid",
+  "start": 0.0,
+  "end": 131.456866406,
+  "duration_s": 131.456866406,
+  "key": "7a3f0149c67a5cfb"
+ },
+ {
+  "performer": "Zhou",
+  "work": "Chopin/Ballades/1",
+  "session": "2011/MIDI-Unprocessed_04_R2_2011_MID--AUDIO_R2-D2_03_Track03_wav.wav",
+  "midi": "Chopin/Ballades/1/Zhou06M.mid",
+  "start": 0.0,
+  "end": 538.139152031,
+  "duration_s": 538.139152031,
+  "key": "6ba02c4bf4e33658"
+ },
+ {
+  "performer": "Wang",
+  "work": "Bach/Prelude/bwv_889",
+  "session": "2011/MIDI-Unprocessed_06_R1_2011_MID--AUDIO_R1-D2_14_Track14_wav.wav",
+  "midi": "Bach/Prelude/bwv_889/Wang01M.mid",
+  "start": 0.0,
+  "end": 149.01041666666666,
+  "duration_s": 149.01041666666666,
+  "key": "8ea4496cc398e255"
+ },
+ {
+  "performer": "Wang",
+  "work": "Bach/Fugue/bwv_889",
+  "session": "2011/MIDI-Unprocessed_06_R1_2011_MID--AUDIO_R1-D2_14_Track14_wav.wav",
+  "midi": "Bach/Fugue/bwv_889/Wang01M.mid",
+  "start": 150.41536458333331,
+  "end": 241.37796375,
+  "duration_s": 90.96259916666668,
+  "key": "89456edf867c1b0c"
+ },
+ {
+  "performer": "Wang",
+  "work": "Beethoven/Piano_Sonatas/7-1",
+  "session": "2011/MIDI-Unprocessed_06_R1_2011_MID--AUDIO_R1-D2_15_Track15_wav.wav",
+  "midi": "Beethoven/Piano_Sonatas/7-1/Wang02M.mid",
+  "start": 0.0,
+  "end": 278.132734688,
+  "duration_s": 278.132734688,
+  "key": "22c8d1e883ba2115"
+ },
+ {
+  "performer": "Wang",
+  "work": "Liszt/Transcendental_Etudes/5",
+  "session": "2011/MIDI-Unprocessed_06_R2_2011_MID--AUDIO_R2-D2_07_Track07_wav.wav",
+  "midi": "Liszt/Transcendental_Etudes/5/Wang06M.mid",
+  "start": 0.0,
+  "end": 215.347006875,
+  "duration_s": 215.347006875,
+  "key": "85ded049c1ff9a4c"
+ },
+ {
+  "performer": "Lee",
+  "work": "Bach/Prelude/bwv_848",
+  "session": "2011/MIDI-Unprocessed_08_R1_2011_MID--AUDIO_R1-D3_07_Track07_wav.wav",
+  "midi": "Bach/Prelude/bwv_848/Lee01M.mid",
+  "start": 0.0,
+  "end": 73.9765625,
+  "duration_s": 73.9765625,
+  "key": "293924de1599c278"
+ },
+ {
+  "performer": "Lee",
+  "work": "Bach/Fugue/bwv_848",
+  "session": "2011/MIDI-Unprocessed_08_R1_2011_MID--AUDIO_R1-D3_07_Track07_wav.wav",
+  "midi": "Bach/Fugue/bwv_848/Lee01M.mid",
+  "start": 74.79557291666666,
+  "end": 200.214810469,
+  "duration_s": 125.41923755233336,
+  "key": "7ae796715ac6a78d"
+ },
+ {
+  "performer": "Hou",
+  "work": "Bach/Prelude/bwv_892",
+  "session": "2011/MIDI-Unprocessed_09_R1_2011_MID--AUDIO_R1-D3_12_Track12_wav.wav",
+  "midi": "Bach/Prelude/bwv_892/Hou01M.mid",
+  "start": 0.0,
+  "end": 100.47916666666666,
+  "duration_s": 100.47916666666666,
+  "key": "298f3125349d0fb3"
+ },
+ {
+  "performer": "Hou",
+  "work": "Bach/Fugue/bwv_892",
+  "session": "2011/MIDI-Unprocessed_09_R1_2011_MID--AUDIO_R1-D3_12_Track12_wav.wav",
+  "midi": "Bach/Fugue/bwv_892/Hou01M.mid",
+  "start": 101.93880208333331,
+  "end": 347.649225,
+  "duration_s": 245.7104229166667,
+  "key": "8443e02031385d79"
+ },
+ {
+  "performer": "Hou",
+  "work": "Schubert/Impromptu_op.90_D.899/3",
+  "session": "2011/MIDI-Unprocessed_09_R2_2011_MID--AUDIO_R2-D3_04_Track04_wav.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/3/Hou06M.mid",
+  "start": 0.0,
+  "end": 320.318857031,
+  "duration_s": 320.318857031,
+  "key": "3ab6feee38a0387d"
+ },
+ {
+  "performer": "Shychko",
+  "work": "Bach/Prelude/bwv_863",
+  "session": "2011/MIDI-Unprocessed_11_R1_2011_MID--AUDIO_R1-D4_07_Track07_wav.wav",
+  "midi": "Bach/Prelude/bwv_863/Shychko01M.mid",
+  "start": 0.0,
+  "end": 102.03385416666666,
+  "duration_s": 102.03385416666666,
+  "key": "002f47709d2add77"
+ },
+ {
+  "performer": "Shychko",
+  "work": "Bach/Fugue/bwv_863",
+  "session": "2011/MIDI-Unprocessed_11_R1_2011_MID--AUDIO_R1-D4_07_Track07_wav.wav",
+  "midi": "Bach/Fugue/bwv_863/Shychko01M.mid",
+  "start": 105.11197916666666,
+  "end": 297.515728125,
+  "duration_s": 192.40374895833335,
+  "key": "92c3d895dfc056ac"
+ },
+ {
+  "performer": "Shychko",
+  "work": "Beethoven/Piano_Sonatas/21-1_no_repeat",
+  "session": "2011/MIDI-Unprocessed_11_R1_2011_MID--AUDIO_R1-D4_08_Track08_wav.wav",
+  "midi": "Beethoven/Piano_Sonatas/21-1_no_repeat/Shychko02M.mid",
+  "start": 0.0,
+  "end": 519.560110781,
+  "duration_s": 519.560110781,
+  "key": "6bb3fd132c51d7d4"
+ },
+ {
+  "performer": "Shychko",
+  "work": "Chopin/Etudes_op_25/11",
+  "session": "2011/MIDI-Unprocessed_11_R1_2011_MID--AUDIO_R1-D4_09_Track09_wav.wav",
+  "midi": "Chopin/Etudes_op_25/11/Shychko03M.mid",
+  "start": 0.0,
+  "end": 200.596754531,
+  "duration_s": 200.596754531,
+  "key": "d691f9d3898fabd0"
+ },
+ {
+  "performer": "Mizumoto",
+  "work": "Chopin/Ballades/4",
+  "session": "2011/MIDI-Unprocessed_12_R1_2011_MID--AUDIO_R1-D4_14_Track14_wav.wav",
+  "midi": "Chopin/Ballades/4/Mizumoto02M.mid",
+  "start": 0.0,
+  "end": 653.658534375,
+  "duration_s": 653.658534375,
+  "key": "ab1454bde3df8881"
+ },
+ {
+  "performer": "Mizumoto",
+  "work": "Bach/Prelude/bwv_848",
+  "session": "2011/MIDI-Unprocessed_12_R1_2011_MID--AUDIO_R1-D4_15_Track15_wav.wav",
+  "midi": "Bach/Prelude/bwv_848/Mizumoto03M.mid",
+  "start": 0.0,
+  "end": 71.6875,
+  "duration_s": 71.6875,
+  "key": "563d680da0133238"
+ },
+ {
+  "performer": "Mizumoto",
+  "work": "Bach/Fugue/bwv_848",
+  "session": "2011/MIDI-Unprocessed_12_R1_2011_MID--AUDIO_R1-D4_15_Track15_wav.wav",
+  "midi": "Bach/Fugue/bwv_848/Mizumoto03M.mid",
+  "start": 72.90625,
+  "end": 202.95919875,
+  "duration_s": 130.05294875,
+  "key": "328868c9986a7eea"
+ },
+ {
+  "performer": "Mizumoto",
+  "work": "Beethoven/Piano_Sonatas/23-1",
+  "session": "2011/MIDI-Unprocessed_12_R2_2011_MID--AUDIO_R2-D4_03_Track03_wav.wav",
+  "midi": "Beethoven/Piano_Sonatas/23-1/Mizumoto06M.mid",
+  "start": 0.0,
+  "end": 523.841623594,
+  "duration_s": 523.841623594,
+  "key": "c942a8eeef8a5fc2"
+ },
+ {
+  "performer": "Mizumoto",
+  "work": "Schubert/Impromptu_op.90_D.899/3",
+  "session": "2011/MIDI-Unprocessed_12_R2_2011_MID--AUDIO_R2-D4_04_Track04_wav.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/3/Mizumoto07M.mid",
+  "start": 0.0,
+  "end": 307.356797344,
+  "duration_s": 307.356797344,
+  "key": "453d7278a588e01a"
+ },
+ {
+  "performer": "Song",
+  "work": "Bach/Prelude/bwv_876",
+  "session": "2011/MIDI-Unprocessed_13_R1_2011_MID--AUDIO_R1-D5_02_Track02_wav.wav",
+  "midi": "Bach/Prelude/bwv_876/Song01M.mid",
+  "start": 0.0,
+  "end": 134.35026041666666,
+  "duration_s": 134.35026041666666,
+  "key": "6f277975a1199948"
+ },
+ {
+  "performer": "Song",
+  "work": "Bach/Fugue/bwv_876",
+  "session": "2011/MIDI-Unprocessed_13_R1_2011_MID--AUDIO_R1-D5_02_Track02_wav.wav",
+  "midi": "Bach/Fugue/bwv_876/Song01M.mid",
+  "start": 137.3515625,
+  "end": 226.341921094,
+  "duration_s": 88.99035859400001,
+  "key": "81b6a070d497d099"
+ },
+ {
+  "performer": "Song",
+  "work": "Chopin/Etudes_op_25/11",
+  "session": "2011/MIDI-Unprocessed_13_R1_2011_MID--AUDIO_R1-D5_03_Track03_wav.wav",
+  "midi": "Chopin/Etudes_op_25/11/Song02M.mid",
+  "start": 0.0,
+  "end": 221.514201563,
+  "duration_s": 221.514201563,
+  "key": "2a500f1ac474049d"
+ },
+ {
+  "performer": "Song",
+  "work": "Beethoven/Piano_Sonatas/21-1_no_repeat",
+  "session": "2011/MIDI-Unprocessed_13_R1_2011_MID--AUDIO_R1-D5_04_Track04_wav.wav",
+  "midi": "Beethoven/Piano_Sonatas/21-1_no_repeat/Song03M.mid",
+  "start": 0.0,
+  "end": 521.564649375,
+  "duration_s": 521.564649375,
+  "key": "63d6767c5984b1a1"
+ },
+ {
+  "performer": "Ahfat",
+  "work": "Bach/Prelude/bwv_875",
+  "session": "2011/MIDI-Unprocessed_14_R1_2011_MID--AUDIO_R1-D6_02_Track02_wav.wav",
+  "midi": "Bach/Prelude/bwv_875/Ahfat01M.mid",
+  "start": 0.0,
+  "end": 95.73828125,
+  "duration_s": 95.73828125,
+  "key": "6572dab2038a34c7"
+ },
+ {
+  "performer": "Ahfat",
+  "work": "Bach/Fugue/bwv_875",
+  "session": "2011/MIDI-Unprocessed_14_R1_2011_MID--AUDIO_R1-D6_02_Track02_wav.wav",
+  "midi": "Bach/Fugue/bwv_875/Ahfat01M.mid",
+  "start": 99.6015625,
+  "end": 228.760455,
+  "duration_s": 129.1588925,
+  "key": "35044ba607428e83"
+ },
+ {
+  "performer": "Ahfat",
+  "work": "Beethoven/Piano_Sonatas/31-1",
+  "session": "2011/MIDI-Unprocessed_14_R1_2011_MID--AUDIO_R1-D6_03_Track03_wav.wav",
+  "midi": "Beethoven/Piano_Sonatas/31-1/Ahfat02M.mid",
+  "start": 0.0,
+  "end": 397.215147656,
+  "duration_s": 397.215147656,
+  "key": "6e639d7923c26f95"
+ },
+ {
+  "performer": "Sham",
+  "work": "Bach/Prelude/bwv_867",
+  "session": "2011/MIDI-Unprocessed_16_R1_2011_MID--AUDIO_R1-D6_12_Track12_wav.wav",
+  "midi": "Bach/Prelude/bwv_867/Sham01M.mid",
+  "start": 0.0,
+  "end": 178.35677083333331,
+  "duration_s": 178.35677083333331,
+  "key": "d3c0e1265bb0ea3a"
+ },
+ {
+  "performer": "Sham",
+  "work": "Bach/Fugue/bwv_867",
+  "session": "2011/MIDI-Unprocessed_16_R1_2011_MID--AUDIO_R1-D6_12_Track12_wav.wav",
+  "midi": "Bach/Fugue/bwv_867/Sham01M.mid",
+  "start": 181.5364583333333,
+  "end": 337.989779531,
+  "duration_s": 156.45332119766672,
+  "key": "a356436f714b55c1"
+ },
+ {
+  "performer": "Sham",
+  "work": "Chopin/Etudes_op_25/11",
+  "session": "2011/MIDI-Unprocessed_16_R1_2011_MID--AUDIO_R1-D6_13_Track13_wav.wav",
+  "midi": "Chopin/Etudes_op_25/11/Sham02M.mid",
+  "start": 0.0,
+  "end": 213.302404219,
+  "duration_s": 213.302404219,
+  "key": "28e97447f3003842"
+ },
+ {
+  "performer": "Sham",
+  "work": "Beethoven/Piano_Sonatas/26-1",
+  "session": "2011/MIDI-Unprocessed_16_R1_2011_MID--AUDIO_R1-D6_14_Track14_wav.wav",
+  "midi": "Beethoven/Piano_Sonatas/26-1/Sham03M.mid",
+  "start": 0.0,
+  "end": 399.448051406,
+  "duration_s": 399.448051406,
+  "key": "a482a0d63e0c906a"
+ },
+ {
+  "performer": "Sladek",
+  "work": "Beethoven/Piano_Sonatas/21-1_no_repeat",
+  "session": "2011/MIDI-Unprocessed_18_R1_2011_MID--AUDIO_R1-D7_08_Track08_wav.wav",
+  "midi": "Beethoven/Piano_Sonatas/21-1_no_repeat/Sladek02M.mid",
+  "start": 0.0,
+  "end": 489.6789975,
+  "duration_s": 489.6789975,
+  "key": "d809d5021e794502"
+ },
+ {
+  "performer": "Sladek",
+  "work": "Chopin/Etudes_op_10/4",
+  "session": "2011/MIDI-Unprocessed_18_R1_2011_MID--AUDIO_R1-D7_09_Track09_wav.wav",
+  "midi": "Chopin/Etudes_op_10/4/Sladek03M.mid",
+  "start": 0.0,
+  "end": 113.671093594,
+  "duration_s": 113.671093594,
+  "key": "282279a277bb8815"
+ },
+ {
+  "performer": "Sladek",
+  "work": "Chopin/Ballades/1",
+  "session": "2011/MIDI-Unprocessed_18_R1_2011_MID--AUDIO_R1-D7_10_Track10_wav.wav",
+  "midi": "Chopin/Ballades/1/Sladek04M.mid",
+  "start": 0.0,
+  "end": 502.698482344,
+  "duration_s": 502.698482344,
+  "key": "8dc0acf416ba4958"
+ },
+ {
+  "performer": "Guo",
+  "work": "Bach/Prelude/bwv_885",
+  "session": "2011/MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_02_Track02_wav.wav",
+  "midi": "Bach/Prelude/bwv_885/Guo01M.mid",
+  "start": 0.0,
+  "end": 147.50130208333331,
+  "duration_s": 147.50130208333331,
+  "key": "39572ddbbe5bb7e5"
+ },
+ {
+  "performer": "Guo",
+  "work": "Bach/Fugue/bwv_885",
+  "session": "2011/MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_02_Track02_wav.wav",
+  "midi": "Bach/Fugue/bwv_885/Guo01M.mid",
+  "start": 149.17578125,
+  "end": 303.6535425,
+  "duration_s": 154.47776125000001,
+  "key": "a3e25767299e62d7"
+ },
+ {
+  "performer": "Guo",
+  "work": "Chopin/Etudes_op_25/10",
+  "session": "2011/MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_03_Track03_wav.wav",
+  "midi": "Chopin/Etudes_op_25/10/Guo02M.mid",
+  "start": 0.0,
+  "end": 243.747085312,
+  "duration_s": 243.747085312,
+  "key": "6930e5560496e40c"
+ },
+ {
+  "performer": "Guo",
+  "work": "Beethoven/Piano_Sonatas/23-1",
+  "session": "2011/MIDI-Unprocessed_20_R1_2011_MID--AUDIO_R1-D8_04_Track04_wav.wav",
+  "midi": "Beethoven/Piano_Sonatas/23-1/Guo03M.mid",
+  "start": 0.0,
+  "end": 572.423305781,
+  "duration_s": 572.423305781,
+  "key": "5037e679ffd3a4d1"
+ },
+ {
+  "performer": "Yi",
+  "work": "Beethoven/Piano_Sonatas/23-1",
+  "session": "2011/MIDI-Unprocessed_21_R1_2011_MID--AUDIO_R1-D8_08_Track08_wav.wav",
+  "midi": "Beethoven/Piano_Sonatas/23-1/Yi02M.mid",
+  "start": 0.0,
+  "end": 568.347455156,
+  "duration_s": 568.347455156,
+  "key": "6e729bd4c7d25e6d"
+ },
+ {
+  "performer": "Yi",
+  "work": "Chopin/Etudes_op_10/4",
+  "session": "2011/MIDI-Unprocessed_21_R1_2011_MID--AUDIO_R1-D8_09_Track09_wav.wav",
+  "midi": "Chopin/Etudes_op_10/4/Yi03M.mid",
+  "start": 0.0,
+  "end": 123.152921719,
+  "duration_s": 123.152921719,
+  "key": "36e13e5c5bce5744"
+ },
+ {
+  "performer": "Yi",
+  "work": "Balakirev/Islamey",
+  "session": "2011/MIDI-Unprocessed_21_R1_2011_MID--AUDIO_R1-D8_10_Track10_wav.wav",
+  "midi": "Balakirev/Islamey/Yi04M.mid",
+  "start": 0.0,
+  "end": 534.923343281,
+  "duration_s": 534.923343281,
+  "key": "ac6ccbca3e757b3a"
+ },
+ {
+  "performer": "Lou",
+  "work": "Bach/Prelude/bwv_848",
+  "session": "2011/MIDI-Unprocessed_24_R1_2011_MID--AUDIO_R1-D9_08_Track08_wav.wav",
+  "midi": "Bach/Prelude/bwv_848/Lou01M.mid",
+  "start": 0.0,
+  "end": 71.97395833333333,
+  "duration_s": 71.97395833333333,
+  "key": "8a8430fe73da36d6"
+ },
+ {
+  "performer": "Lou",
+  "work": "Bach/Fugue/bwv_848",
+  "session": "2011/MIDI-Unprocessed_24_R1_2011_MID--AUDIO_R1-D9_08_Track08_wav.wav",
+  "midi": "Bach/Fugue/bwv_848/Lou01M.mid",
+  "start": 75.55729166666666,
+  "end": 202.549209844,
+  "duration_s": 126.99191817733333,
+  "key": "754210c06f1a7ef9"
+ },
+ {
+  "performer": "Lou",
+  "work": "Chopin/Etudes_op_10/8",
+  "session": "2011/MIDI-Unprocessed_24_R1_2011_MID--AUDIO_R1-D9_10_Track10_wav.wav",
+  "midi": "Chopin/Etudes_op_10/8/Lou03M.mid",
+  "start": 0.0,
+  "end": 143.597612813,
+  "duration_s": 143.597612813,
+  "key": "06200364cebac22a"
+ },
+ {
+  "performer": "Teo",
+  "work": "Bach/Fugue/bwv_865",
+  "session": "2011/MIDI-Unprocessed_25_R1_2011_MID--AUDIO_R1-D9_14_Track14_wav.wav",
+  "midi": "Bach/Fugue/bwv_865/Teo01M.mid",
+  "start": 59.97526041666666,
+  "end": 303.235540781,
+  "duration_s": 243.26028036433334,
+  "key": "b06faf08054cd441"
+ },
+ {
+  "performer": "Teo",
+  "work": "Beethoven/Piano_Sonatas/23-1",
+  "session": "2011/MIDI-Unprocessed_25_R1_2011_MID--AUDIO_R1-D9_15_Track15_wav.wav",
+  "midi": "Beethoven/Piano_Sonatas/23-1/Teo02M.mid",
+  "start": 0.0,
+  "end": 564.872565469,
+  "duration_s": 564.872565469,
+  "key": "c13ef44afd0e8e90"
+ },
+ {
+  "performer": "Teo",
+  "work": "Schubert/Impromptu_op.90_D.899/1",
+  "session": "2011/MIDI-Unprocessed_25_R2_2011_MID--AUDIO_R2-D6_07_Track07_wav.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/1/Teo06M.mid",
+  "start": 0.0,
+  "end": 566.914497188,
+  "duration_s": 566.914497188,
+  "key": "6543831997569f8f"
+ },
+ {
+  "performer": "Teo",
+  "work": "Chopin/Berceuse_op_57",
+  "session": "2011/MIDI-Unprocessed_25_R3_2011_MID--AUDIO_R3-D9_05_Track05_wav.wav",
+  "midi": "Chopin/Berceuse_op_57/Teo11M.mid",
+  "start": 0.0,
+  "end": 293.0552625,
+  "duration_s": 293.0552625,
+  "key": "e32f344419bfb9e3"
+ },
+ {
+  "performer": "Richardson",
+  "work": "Chopin/Ballades/1",
+  "session": "2013/ORIG-MIDI_01_7_10_13_Group_MID--AUDIO_08_R3_2013_wav--3.wav",
+  "midi": "Chopin/Ballades/1/Richardson13M.mid",
+  "start": 0.0,
+  "end": 511.011775313,
+  "duration_s": 511.011775313,
+  "key": "9a982bcd15052cd7"
+ },
+ {
+  "performer": "Richardson",
+  "work": "Bach/Prelude/bwv_854",
+  "session": "2013/ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_08_R1_2013_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_854/Richardson01M.mid",
+  "start": 0.0,
+  "end": 92.05598958333331,
+  "duration_s": 92.05598958333331,
+  "key": "f9041e82834da002"
+ },
+ {
+  "performer": "Richardson",
+  "work": "Bach/Fugue/bwv_854",
+  "session": "2013/ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_08_R1_2013_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_854/Richardson01M.mid",
+  "start": 94.62239583333331,
+  "end": 157.071157031,
+  "duration_s": 62.4487611976667,
+  "key": "c5e8e86a359ee61f"
+ },
+ {
+  "performer": "Richardson",
+  "work": "Beethoven/Piano_Sonatas/17-1_no_repeat",
+  "session": "2013/ORIG-MIDI_02_7_6_13_Group__MID--AUDIO_08_R1_2013_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/17-1_no_repeat/Richardson02M.mid",
+  "start": 0.0,
+  "end": 340.150567969,
+  "duration_s": 340.150567969,
+  "key": "bd53124cf52cbdfe"
+ },
+ {
+  "performer": "Richardson",
+  "work": "Schubert/Impromptu_op142/3",
+  "session": "2013/ORIG-MIDI_02_7_8_13_Group__MID--AUDIO_08_R2_2013_wav--1.wav",
+  "midi": "Schubert/Impromptu_op142/3/Richardson07M.mid",
+  "start": 0.0,
+  "end": 638.698613438,
+  "duration_s": 638.698613438,
+  "key": "3d200ddb4c6c7949"
+ },
+ {
+  "performer": "Wong",
+  "work": "Bach/Prelude/bwv_893",
+  "session": "2013/ORIG-MIDI_03_7_6_13_Group__MID--AUDIO_10_R1_2013_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_893/Wong01M.mid",
+  "start": 0.0,
+  "end": 147.3203125,
+  "duration_s": 147.3203125,
+  "key": "a54ae39c07f3b871"
+ },
+ {
+  "performer": "Wong",
+  "work": "Bach/Fugue/bwv_893",
+  "session": "2013/ORIG-MIDI_03_7_6_13_Group__MID--AUDIO_10_R1_2013_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_893/Wong01M.mid",
+  "start": 150.18098958333331,
+  "end": 254.6792325,
+  "duration_s": 104.4982429166667,
+  "key": "931770e6dd369ba4"
+ },
+ {
+  "performer": "Wong",
+  "work": "Chopin/Etudes_op_25/1",
+  "session": "2013/ORIG-MIDI_03_7_6_13_Group__MID--AUDIO_10_R1_2013_wav--3.wav",
+  "midi": "Chopin/Etudes_op_25/1/Wong03M.mid",
+  "start": 0.0,
+  "end": 136.072246406,
+  "duration_s": 136.072246406,
+  "key": "911adbf63b36923d"
+ },
+ {
+  "performer": "Wong",
+  "work": "Chopin/Scherzos/20",
+  "session": "2013/ORIG-MIDI_03_7_6_13_Group__MID--AUDIO_10_R1_2013_wav--4.wav",
+  "midi": "Chopin/Scherzos/20/Wong04M.mid",
+  "start": 4.3359375,
+  "end": 555.1917525,
+  "duration_s": 550.855815,
+  "key": "ac7c7934da27d7ed"
+ },
+ {
+  "performer": "LeungM",
+  "work": "Chopin/Berceuse_op_57",
+  "session": "2014/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_05_R1_2014_wav--4.wav",
+  "midi": "Chopin/Berceuse_op_57/LeungM07M.mid",
+  "start": 0.0,
+  "end": 256.01470125,
+  "duration_s": 256.01470125,
+  "key": "362a44ba97bd75a2"
+ },
+ {
+  "performer": "LeungM",
+  "work": "Liszt/Annees_de_pelerinage_2/1_Gondoliera",
+  "session": "2014/MIDI-UNPROCESSED_04-05_R1_2014_MID--AUDIO_05_R1_2014_wav--8.wav",
+  "midi": "Liszt/Annees_de_pelerinage_2/1_Gondoliera/LeungM12M.mid",
+  "start": 0.0,
+  "end": 297.5078125,
+  "duration_s": 297.5078125,
+  "key": "06cf2660bacf1331"
+ },
+ {
+  "performer": "LiuY",
+  "work": "Liszt/Transcendental_Etudes/5",
+  "session": "2014/MIDI-UNPROCESSED_09-10_R1_2014_MID--AUDIO_09_R1_2014_wav--3.wav",
+  "midi": "Liszt/Transcendental_Etudes/5/LiuY06M.mid",
+  "start": 0.0,
+  "end": 220.76901,
+  "duration_s": 220.76901,
+  "key": "4a11347fa8b4168a"
+ },
+ {
+  "performer": "WangY",
+  "work": "Beethoven/Piano_Sonatas/28-1",
+  "session": "2014/MIDI-UNPROCESSED_11-13_R1_2014_MID--AUDIO_13_R1_2014_wav--3.wav",
+  "midi": "Beethoven/Piano_Sonatas/28-1/WangY04M.mid",
+  "start": 0.0,
+  "end": 235.44401041666663,
+  "duration_s": 235.44401041666663,
+  "key": "7deb6f1a205be991"
+ },
+ {
+  "performer": "KyykhynenT",
+  "work": "Beethoven/Piano_Sonatas/28-1",
+  "session": "2014/MIDI-UNPROCESSED_16-18_R1_2014_MID--AUDIO_18_R1_2014_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/28-1/KyykhynenT06M.mid",
+  "start": 0.0,
+  "end": 233.9075520833333,
+  "duration_s": 233.9075520833333,
+  "key": "de1e305af7787404"
+ },
+ {
+  "performer": "KyykhynenT",
+  "work": "Chopin/Etudes_op_10/8",
+  "session": "2014/MIDI-UNPROCESSED_16-18_R1_2014_MID--AUDIO_18_R1_2014_wav--3.wav",
+  "midi": "Chopin/Etudes_op_10/8/KyykhynenT09M.mid",
+  "start": 0.0,
+  "end": 150.433877344,
+  "duration_s": 150.433877344,
+  "key": "5b48a790e1050fed"
+ },
+ {
+  "performer": "KyykhynenT",
+  "work": "Chopin/Etudes_op_25/11",
+  "session": "2014/MIDI-UNPROCESSED_16-18_R1_2014_MID--AUDIO_18_R1_2014_wav--4.wav",
+  "midi": "Chopin/Etudes_op_25/11/KyykhynenT10M.mid",
+  "start": 0.0,
+  "end": 221.737224844,
+  "duration_s": 221.737224844,
+  "key": "e547f2fc9ca8522c"
+ },
+ {
+  "performer": "LiuC",
+  "work": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella",
+  "session": "2015/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_01_R1_2015_wav--5.wav",
+  "midi": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella/LiuC05M.mid",
+  "start": 0.0,
+  "end": 262.876041667,
+  "duration_s": 262.876041667,
+  "key": "bf9625ef8418ded2"
+ },
+ {
+  "performer": "LuoJ",
+  "work": "Beethoven/Piano_Sonatas/16-1",
+  "session": "2015/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_06_R1_2015_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/16-1/LuoJ03M.mid",
+  "start": 0.0,
+  "end": 264.94895833333334,
+  "duration_s": 264.94895833333334,
+  "key": "5a0b144821a6e9d2"
+ },
+ {
+  "performer": "LuoJ",
+  "work": "Chopin/Etudes_op_10/12",
+  "session": "2015/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_06_R1_2015_wav--6.wav",
+  "midi": "Chopin/Etudes_op_10/12/LuoJ08M.mid",
+  "start": 0.0,
+  "end": 136.134375,
+  "duration_s": 136.134375,
+  "key": "20e0d09784ba6f42"
+ },
+ {
+  "performer": "LeeN",
+  "work": "Bach/Prelude/bwv_863",
+  "session": "2015/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_07_R1_2015_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_863/LeeN01M.mid",
+  "start": 0.0,
+  "end": 102.87604166666668,
+  "duration_s": 102.87604166666668,
+  "key": "7cfa1c4019f48ace"
+ },
+ {
+  "performer": "LeeN",
+  "work": "Bach/Fugue/bwv_863",
+  "session": "2015/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_07_R1_2015_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_863/LeeN01M.mid",
+  "start": 108.51666666666668,
+  "end": 275.396875,
+  "duration_s": 166.88020833333334,
+  "key": "5c9c15bf186be884"
+ },
+ {
+  "performer": "LeeN",
+  "work": "Beethoven/Piano_Sonatas/21-1_no_repeat",
+  "session": "2015/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_07_R1_2015_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/21-1_no_repeat/LeeN02M.mid",
+  "start": 0.0,
+  "end": 484.226041667,
+  "duration_s": 484.226041667,
+  "key": "e9b93b2eba649e14"
+ },
+ {
+  "performer": "LeeN",
+  "work": "Chopin/Etudes_op_25/1",
+  "session": "2015/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_07_R1_2015_wav--3.wav",
+  "midi": "Chopin/Etudes_op_25/1/LeeN03M.mid",
+  "start": 0.0,
+  "end": 137.86875,
+  "duration_s": 137.86875,
+  "key": "2ecc462135c7905f"
+ },
+ {
+  "performer": "LeeN",
+  "work": "Chopin/Scherzos/31",
+  "session": "2015/MIDI-Unprocessed_R1_D1-1-8_mid--AUDIO-from_mp3_07_R1_2015_wav--4.wav",
+  "midi": "Chopin/Scherzos/31/LeeN04M.mid",
+  "start": 0.0,
+  "end": 581.988541667,
+  "duration_s": 581.988541667,
+  "key": "26c8303a55edb33a"
+ },
+ {
+  "performer": "MiyashitaM",
+  "work": "Bach/Prelude/bwv_848",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_09_R1_2015_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_848/MiyashitaM01M.mid",
+  "start": 0.0,
+  "end": 75.56666666666666,
+  "duration_s": 75.56666666666666,
+  "key": "541a987a004122fe"
+ },
+ {
+  "performer": "MiyashitaM",
+  "work": "Bach/Fugue/bwv_848",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_09_R1_2015_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_848/MiyashitaM01M.mid",
+  "start": 79.61354166666666,
+  "end": 217.730208333,
+  "duration_s": 138.11666666633334,
+  "key": "be24b8f8e1d835b8"
+ },
+ {
+  "performer": "MiyashitaM",
+  "work": "Beethoven/Piano_Sonatas/3-1",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_09_R1_2015_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/3-1/MiyashitaM03M.mid",
+  "start": 0.0,
+  "end": 449.10833333333335,
+  "duration_s": 449.10833333333335,
+  "key": "3a1997a81cd07326"
+ },
+ {
+  "performer": "MiyashitaM",
+  "work": "Chopin/Etudes_op_10/8",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_09_R1_2015_wav--3.wav",
+  "midi": "Chopin/Etudes_op_10/8/MiyashitaM05M.mid",
+  "start": 0.0,
+  "end": 138.896875,
+  "duration_s": 138.896875,
+  "key": "18c1f98233f32c85"
+ },
+ {
+  "performer": "MiyashitaM",
+  "work": "Chopin/Berceuse_op_57",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_09_R1_2015_wav--4.wav",
+  "midi": "Chopin/Berceuse_op_57/MiyashitaM06M.mid",
+  "start": 0.0,
+  "end": 273.486458333,
+  "duration_s": 273.486458333,
+  "key": "b2233f2c2209485b"
+ },
+ {
+  "performer": "LuM",
+  "work": "Bach/Prelude/bwv_883",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_10_R1_2015_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_883/LuM01M.mid",
+  "start": 0.0,
+  "end": 164.54583333333332,
+  "duration_s": 164.54583333333332,
+  "key": "c9af173a7d8e5a13"
+ },
+ {
+  "performer": "LuM",
+  "work": "Bach/Fugue/bwv_883",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_10_R1_2015_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_883/LuM01M.mid",
+  "start": 166.62083333333334,
+  "end": 348.580208333,
+  "duration_s": 181.95937499966664,
+  "key": "e92b32c89bd01ced"
+ },
+ {
+  "performer": "LuM",
+  "work": "Chopin/Etudes_op_10/1",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_10_R1_2015_wav--2.wav",
+  "midi": "Chopin/Etudes_op_10/1/LuM02M.mid",
+  "start": 0.0,
+  "end": 112.64166666666668,
+  "duration_s": 112.64166666666668,
+  "key": "6c53a594c1757945"
+ },
+ {
+  "performer": "WuuE",
+  "work": "Mozart/Piano_Sonatas/12-1",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_11_R1_2015_wav--1.wav",
+  "midi": "Mozart/Piano_Sonatas/12-1/WuuE02M.mid",
+  "start": 0.0,
+  "end": 293.2375,
+  "duration_s": 293.2375,
+  "key": "545dd7f1c1c2dc69"
+ },
+ {
+  "performer": "WuuE",
+  "work": "Mozart/Piano_Sonatas/12-3",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_11_R1_2015_wav--1.wav",
+  "midi": "Mozart/Piano_Sonatas/12-3/WuuE04M.mid",
+  "start": 602.3979166666667,
+  "end": 908.790625,
+  "duration_s": 306.3927083333333,
+  "key": "e3295e297fdf91de"
+ },
+ {
+  "performer": "WuuE",
+  "work": "Chopin/Etudes_op_10/12",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_11_R1_2015_wav--3.wav",
+  "midi": "Chopin/Etudes_op_10/12/WuuE06M.mid",
+  "start": 0.0,
+  "end": 150.49375,
+  "duration_s": 150.49375,
+  "key": "cddb22015d7fc2df"
+ },
+ {
+  "performer": "MunA",
+  "work": "Bach/Prelude/bwv_889",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_12_R1_2015_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_889/MunA01M.mid",
+  "start": 0.0,
+  "end": 138.31875,
+  "duration_s": 138.31875,
+  "key": "53584c3dd5ba9c27"
+ },
+ {
+  "performer": "MunA",
+  "work": "Bach/Fugue/bwv_889",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_12_R1_2015_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_889/MunA01M.mid",
+  "start": 141.53854166666667,
+  "end": 236.185416667,
+  "duration_s": 94.64687500033332,
+  "key": "48faea65f2f03de9"
+ },
+ {
+  "performer": "MunA",
+  "work": "Mozart/Piano_Sonatas/12-1",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_12_R1_2015_wav--2.wav",
+  "midi": "Mozart/Piano_Sonatas/12-1/MunA03M.mid",
+  "start": 0.0,
+  "end": 273.1645833333333,
+  "duration_s": 273.1645833333333,
+  "key": "9ef1da0f084e5b6e"
+ },
+ {
+  "performer": "MunA",
+  "work": "Mozart/Piano_Sonatas/12-3",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_12_R1_2015_wav--2.wav",
+  "midi": "Mozart/Piano_Sonatas/12-3/MunA05M.mid",
+  "start": 543.95625,
+  "end": 832.53125,
+  "duration_s": 288.57500000000005,
+  "key": "7863180a44ccab3a"
+ },
+ {
+  "performer": "MunA",
+  "work": "Chopin/Etudes_op_10/1",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_12_R1_2015_wav--4.wav",
+  "midi": "Chopin/Etudes_op_10/1/MunA07M.mid",
+  "start": 0.0,
+  "end": 104.165625,
+  "duration_s": 104.165625,
+  "key": "4dbb6c4a277b2b45"
+ },
+ {
+  "performer": "MunA",
+  "work": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella",
+  "session": "2015/MIDI-Unprocessed_R1_D1-9-12_mid--AUDIO-from_mp3_12_R1_2015_wav--5.wav",
+  "midi": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella/MunA08M.mid",
+  "start": 0.0,
+  "end": 262.686458333,
+  "duration_s": 262.686458333,
+  "key": "47e10e84be748082"
+ },
+ {
+  "performer": "JeonH",
+  "work": "Bach/Prelude/bwv_885",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_15_R1_2015_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_885/JeonH01M.mid",
+  "start": 0.0,
+  "end": 176.36979166666663,
+  "duration_s": 176.36979166666663,
+  "key": "cd7337846a67653a"
+ },
+ {
+  "performer": "JeonH",
+  "work": "Bach/Fugue/bwv_885",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_15_R1_2015_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_885/JeonH01M.mid",
+  "start": 178.3625,
+  "end": 330.161458333,
+  "duration_s": 151.79895833299997,
+  "key": "18fa316a405a8c21"
+ },
+ {
+  "performer": "JeonH",
+  "work": "Haydn/Keyboard_Sonatas/50-1_no_repeat",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_15_R1_2015_wav--3.wav",
+  "midi": "Haydn/Keyboard_Sonatas/50-1_no_repeat/JeonH03M.mid",
+  "start": 0.0,
+  "end": 325.622916667,
+  "duration_s": 325.622916667,
+  "key": "6d7ce674e592c347"
+ },
+ {
+  "performer": "LeeE",
+  "work": "Bach/Prelude/bwv_870",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_17_R1_2015_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_870/LeeE01M.mid",
+  "start": 0.0,
+  "end": 144.390625,
+  "duration_s": 144.390625,
+  "key": "f039f766448d46b2"
+ },
+ {
+  "performer": "LeeE",
+  "work": "Bach/Fugue/bwv_870",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_17_R1_2015_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_870/LeeE01M.mid",
+  "start": 146.88854166666667,
+  "end": 233.179166667,
+  "duration_s": 86.29062500033334,
+  "key": "b85480cd572aa143"
+ },
+ {
+  "performer": "LeeE",
+  "work": "Beethoven/Piano_Sonatas/4-1",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_17_R1_2015_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/4-1/LeeE02M.mid",
+  "start": 0.0,
+  "end": 338.472916667,
+  "duration_s": 338.472916667,
+  "key": "1813e56a3cd577e3"
+ },
+ {
+  "performer": "LeeE",
+  "work": "Liszt/Transcendental_Etudes/4",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_17_R1_2015_wav--4.wav",
+  "midi": "Liszt/Transcendental_Etudes/4/LeeE04M.mid",
+  "start": 0.0,
+  "end": 414.234375,
+  "duration_s": 414.234375,
+  "key": "944915b000b0b833"
+ },
+ {
+  "performer": "WangA",
+  "work": "Bach/Prelude/bwv_857",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_18_R1_2015_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_857/WangA01M.mid",
+  "start": 0.0,
+  "end": 134.928125,
+  "duration_s": 134.928125,
+  "key": "cd60860858d91d40"
+ },
+ {
+  "performer": "WangA",
+  "work": "Bach/Fugue/bwv_857",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_18_R1_2015_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_857/WangA01M.mid",
+  "start": 137.63854166666667,
+  "end": 355.026041667,
+  "duration_s": 217.38750000033335,
+  "key": "c305ea94602b44ce"
+ },
+ {
+  "performer": "WangA",
+  "work": "Chopin/Etudes_op_25/11",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_18_R1_2015_wav--2.wav",
+  "midi": "Chopin/Etudes_op_25/11/WangA02M.mid",
+  "start": 0.0,
+  "end": 210.821875,
+  "duration_s": 210.821875,
+  "key": "811d623a3b457489"
+ },
+ {
+  "performer": "WongWY",
+  "work": "Bach/Fugue/bwv_874",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_19_R1_2015_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_874/WongWY01M.mid",
+  "start": 175.196875,
+  "end": 373.192708333,
+  "duration_s": 197.99583333299998,
+  "key": "b3c5f42ec42d41fb"
+ },
+ {
+  "performer": "WongWY",
+  "work": "Haydn/Keyboard_Sonatas/46-1",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_19_R1_2015_wav--2.wav",
+  "midi": "Haydn/Keyboard_Sonatas/46-1/WongWY02M.mid",
+  "start": 0.0,
+  "end": 362.353125,
+  "duration_s": 362.353125,
+  "key": "9c272f2b1607539c"
+ },
+ {
+  "performer": "ChenW",
+  "work": "Bach/Prelude/bwv_870",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_20_R1_2015_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_870/ChenW01M.mid",
+  "start": 0.0,
+  "end": 156.390625,
+  "duration_s": 156.390625,
+  "key": "976b025259ee1892"
+ },
+ {
+  "performer": "ChenW",
+  "work": "Bach/Fugue/bwv_870",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_20_R1_2015_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_870/ChenW01M.mid",
+  "start": 161.71458333333334,
+  "end": 258.54375,
+  "duration_s": 96.82916666666665,
+  "key": "747ec2e3c23a6410"
+ },
+ {
+  "performer": "ChenW",
+  "work": "Chopin/Etudes_op_10/1",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_20_R1_2015_wav--3.wav",
+  "midi": "Chopin/Etudes_op_10/1/ChenW03M.mid",
+  "start": 0.0,
+  "end": 116.702083333,
+  "duration_s": 116.702083333,
+  "key": "4cd76c2620b2ed6f"
+ },
+ {
+  "performer": "ChenW",
+  "work": "Chopin/Scherzos/31",
+  "session": "2015/MIDI-Unprocessed_R1_D2-13-20_mid--AUDIO-from_mp3_20_R1_2015_wav--4.wav",
+  "midi": "Chopin/Scherzos/31/ChenW04M.mid",
+  "start": 0.0,
+  "end": 622.283333333,
+  "duration_s": 622.283333333,
+  "key": "834fed0e451112a8"
+ },
+ {
+  "performer": "YoungS",
+  "work": "Bach/Fugue/bwv_860",
+  "session": "2015/MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_21_R1_2015_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_860/YoungS01M.mid",
+  "start": 51.83958333333333,
+  "end": 199.409375,
+  "duration_s": 147.56979166666667,
+  "key": "fea5273f7afc5f09"
+ },
+ {
+  "performer": "YoungS",
+  "work": "Haydn/Keyboard_Sonatas/50-1_no_repeat",
+  "session": "2015/MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_21_R1_2015_wav--2.wav",
+  "midi": "Haydn/Keyboard_Sonatas/50-1_no_repeat/YoungS02M.mid",
+  "start": 0.0,
+  "end": 314.383333333,
+  "duration_s": 314.383333333,
+  "key": "eb47d2226f0c6132"
+ },
+ {
+  "performer": "HuNY",
+  "work": "Bach/Prelude/bwv_867",
+  "session": "2015/MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_22_R1_2015_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_867/HuNY01M.mid",
+  "start": 0.0,
+  "end": 169.50104166666662,
+  "duration_s": 169.50104166666662,
+  "key": "088d9d373dd85510"
+ },
+ {
+  "performer": "HuNY",
+  "work": "Bach/Fugue/bwv_867",
+  "session": "2015/MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_22_R1_2015_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_867/HuNY01M.mid",
+  "start": 174.12395833333332,
+  "end": 313.167708333,
+  "duration_s": 139.0437499996667,
+  "key": "a756e59f3ca3b6f7"
+ },
+ {
+  "performer": "HuNY",
+  "work": "Beethoven/Piano_Sonatas/26-1",
+  "session": "2015/MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_22_R1_2015_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/26-1/HuNY02M.mid",
+  "start": 0.0,
+  "end": 407.455208333,
+  "duration_s": 407.455208333,
+  "key": "fa9813165745148f"
+ },
+ {
+  "performer": "HuNY",
+  "work": "Chopin/Etudes_op_10/12",
+  "session": "2015/MIDI-Unprocessed_R1_D2-21-22_mid--AUDIO-from_mp3_22_R1_2015_wav--3.wav",
+  "midi": "Chopin/Etudes_op_10/12/HuNY03M.mid",
+  "start": 0.0,
+  "end": 157.636458333,
+  "duration_s": 157.636458333,
+  "key": "4f00946fee0edd82"
+ },
+ {
+  "performer": "LuoJ",
+  "work": "Schubert/Impromptu_op.90_D.899/4_no_repeat",
+  "session": "2015/MIDI-Unprocessed_R2_D1-2-3-6-7-8-11_mid--AUDIO-from_mp3_06_R2_2015_wav--1.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/4_no_repeat/LuoJ09M.mid",
+  "start": 0.0,
+  "end": 354.151041667,
+  "duration_s": 354.151041667,
+  "key": "ca98d7861d3a8fc2"
+ },
+ {
+  "performer": "LuoJ",
+  "work": "Chopin/Scherzos/31",
+  "session": "2015/MIDI-Unprocessed_R2_D1-2-3-6-7-8-11_mid--AUDIO-from_mp3_06_R2_2015_wav--4.wav",
+  "midi": "Chopin/Scherzos/31/LuoJ12M.mid",
+  "start": 0.0,
+  "end": 536.088541667,
+  "duration_s": 536.088541667,
+  "key": "057afe27e8a251fe"
+ },
+ {
+  "performer": "WuuE",
+  "work": "Schubert/Impromptu_op.90_D.899/3",
+  "session": "2015/MIDI-Unprocessed_R2_D1-2-3-6-7-8-11_mid--AUDIO-from_mp3_11_R2_2015_wav--2.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/3/WuuE10M.mid",
+  "start": 0.0,
+  "end": 355.173958333,
+  "duration_s": 355.173958333,
+  "key": "05e8fb623daec28b"
+ },
+ {
+  "performer": "MunA",
+  "work": "Chopin/Ballades/1",
+  "session": "2015/MIDI-Unprocessed_R2_D2-12-13-15_mid--AUDIO-from_mp3_12_R2_2015_wav--5.wav",
+  "midi": "Chopin/Ballades/1/MunA19M.mid",
+  "start": 0.0,
+  "end": 511.25625,
+  "duration_s": 511.25625,
+  "key": "e793b9b98c38976c"
+ },
+ {
+  "performer": "JeonH",
+  "work": "Schubert/Impromptu_op.90_D.899/3",
+  "session": "2015/MIDI-Unprocessed_R2_D2-12-13-15_mid--AUDIO-from_mp3_15_R2_2015_wav--1.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/3/JeonH06M.mid",
+  "start": 0.0,
+  "end": 366.34375,
+  "duration_s": 366.34375,
+  "key": "b7546b7c54a5e640"
+ },
+ {
+  "performer": "WongWY",
+  "work": "Schubert/Impromptu_op.90_D.899/4_no_repeat",
+  "session": "2015/MIDI-Unprocessed_R2_D2-19-21-22_mid--AUDIO-from_mp3_19_R2_2015_wav--3.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/4_no_repeat/WongWY08M.mid",
+  "start": 0.0,
+  "end": 366.94375,
+  "duration_s": 366.94375,
+  "key": "7fc11daf65e20adf"
+ },
+ {
+  "performer": "YoungS",
+  "work": "Schubert/Impromptu_op142/3",
+  "session": "2015/MIDI-Unprocessed_R2_D2-19-21-22_mid--AUDIO-from_mp3_21_R2_2015_wav--1.wav",
+  "midi": "Schubert/Impromptu_op142/3/YoungS06M.mid",
+  "start": 0.0,
+  "end": 685.057291667,
+  "duration_s": 685.057291667,
+  "key": "1be86216a68bc765"
+ },
+ {
+  "performer": "HuNY",
+  "work": "Schubert/Impromptu_op.90_D.899/2",
+  "session": "2015/MIDI-Unprocessed_R2_D2-19-21-22_mid--AUDIO-from_mp3_22_R2_2015_wav--1.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/2/HuNY06M.mid",
+  "start": 0.0,
+  "end": 287.720833333,
+  "duration_s": 287.720833333,
+  "key": "2c8f27536e318740"
+ },
+ {
+  "performer": "HuNY",
+  "work": "Chopin/Scherzos/31",
+  "session": "2015/MIDI-Unprocessed_R2_D2-19-21-22_mid--AUDIO-from_mp3_22_R2_2015_wav--3.wav",
+  "midi": "Chopin/Scherzos/31/HuNY08M.mid",
+  "start": 0.0,
+  "end": 580.788541667,
+  "duration_s": 580.788541667,
+  "key": "5fe4befd8482843e"
+ },
+ {
+  "performer": "WangA",
+  "work": "Bach/Prelude/bwv_854",
+  "session": "2017/MIDI-Unprocessed_041_PIANO041_MID--AUDIO-split_07-06-17_Piano-e_1-01_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_854/WangA01M.mid",
+  "start": 0.0,
+  "end": 84.62395833333333,
+  "duration_s": 84.62395833333333,
+  "key": "71d5437a80138101"
+ },
+ {
+  "performer": "WangA",
+  "work": "Bach/Fugue/bwv_854",
+  "session": "2017/MIDI-Unprocessed_041_PIANO041_MID--AUDIO-split_07-06-17_Piano-e_1-01_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_854/WangA01M.mid",
+  "start": 86.775,
+  "end": 151.017422404,
+  "duration_s": 64.242422404,
+  "key": "c9c3ce31e5c79757"
+ },
+ {
+  "performer": "WangA",
+  "work": "Beethoven/Piano_Sonatas/21-1_no_repeat",
+  "session": "2017/MIDI-Unprocessed_041_PIANO041_MID--AUDIO-split_07-06-17_Piano-e_1-01_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/21-1_no_repeat/WangA02M.mid",
+  "start": 0.0,
+  "end": 473.193194162,
+  "duration_s": 473.193194162,
+  "key": "580866294e04efe3"
+ },
+ {
+  "performer": "WangA",
+  "work": "Chopin/Etudes_op_25/10",
+  "session": "2017/MIDI-Unprocessed_041_PIANO041_MID--AUDIO-split_07-06-17_Piano-e_1-01_wav--3.wav",
+  "midi": "Chopin/Etudes_op_25/10/WangA03M.mid",
+  "start": 0.0,
+  "end": 237.363153154,
+  "duration_s": 237.363153154,
+  "key": "38bd412140cf7063"
+ },
+ {
+  "performer": "YuP",
+  "work": "Bach/Prelude/bwv_857",
+  "session": "2017/MIDI-Unprocessed_042_PIANO042_MID--AUDIO-split_07-06-17_Piano-e_1-02_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_857/YuP01M.mid",
+  "start": 0.0,
+  "end": 113.496875,
+  "duration_s": 113.496875,
+  "key": "6e08ffb79f2f06b5"
+ },
+ {
+  "performer": "YuP",
+  "work": "Bach/Fugue/bwv_857",
+  "session": "2017/MIDI-Unprocessed_042_PIANO042_MID--AUDIO-split_07-06-17_Piano-e_1-02_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_857/YuP01M.mid",
+  "start": 116.89166666666668,
+  "end": 331.603075992,
+  "duration_s": 214.71140932533334,
+  "key": "85e142c1f878c732"
+ },
+ {
+  "performer": "YuP",
+  "work": "Chopin/Etudes_op_10/1",
+  "session": "2017/MIDI-Unprocessed_042_PIANO042_MID--AUDIO-split_07-06-17_Piano-e_1-02_wav--2.wav",
+  "midi": "Chopin/Etudes_op_10/1/YuP02M.mid",
+  "start": 0.0,
+  "end": 116.213105767,
+  "duration_s": 116.213105767,
+  "key": "689745408ac01009"
+ },
+ {
+  "performer": "YuP",
+  "work": "Haydn/Keyboard_Sonatas/46-1",
+  "session": "2017/MIDI-Unprocessed_042_PIANO042_MID--AUDIO-split_07-06-17_Piano-e_1-02_wav--3.wav",
+  "midi": "Haydn/Keyboard_Sonatas/46-1/YuP03M.mid",
+  "start": 0.0,
+  "end": 349.392518737,
+  "duration_s": 349.392518737,
+  "key": "f24982db7574f7f0"
+ },
+ {
+  "performer": "KaiRuiR",
+  "work": "Bach/Fugue/bwv_883",
+  "session": "2017/MIDI-Unprocessed_043_PIANO043_MID--AUDIO-split_07-06-17_Piano-e_1-03_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_883/KaiRuiR03.mid",
+  "start": 223.83229166666663,
+  "end": 385.827169267,
+  "duration_s": 161.99487760033335,
+  "key": "2ce7c262db660136"
+ },
+ {
+  "performer": "KaiRuiR",
+  "work": "Chopin/Etudes_op_10/1",
+  "session": "2017/MIDI-Unprocessed_043_PIANO043_MID--AUDIO-split_07-06-17_Piano-e_1-03_wav--3.wav",
+  "midi": "Chopin/Etudes_op_10/1/KaiRuiR03M.mid",
+  "start": 0.0,
+  "end": 121.811368933,
+  "duration_s": 121.811368933,
+  "key": "32f65d13c96bb8c3"
+ },
+ {
+  "performer": "LiuC",
+  "work": "Beethoven/Piano_Sonatas/23-1",
+  "session": "2017/MIDI-Unprocessed_045_PIANO045_MID--AUDIO-split_07-06-17_Piano-e_2-01_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/23-1/LiuC02M.mid",
+  "start": 0.0,
+  "end": 515.413072754,
+  "duration_s": 515.413072754,
+  "key": "d30d315b3506a122"
+ },
+ {
+  "performer": "LiuC",
+  "work": "Liszt/Transcendental_Etudes/4",
+  "session": "2017/MIDI-Unprocessed_045_PIANO045_MID--AUDIO-split_07-06-17_Piano-e_2-01_wav--4.wav",
+  "midi": "Liszt/Transcendental_Etudes/4/LiuC04M.mid",
+  "start": 0.0,
+  "end": 394.658322575,
+  "duration_s": 394.658322575,
+  "key": "03c5e68e8e7a9c1a"
+ },
+ {
+  "performer": "BuiJL",
+  "work": "Beethoven/Piano_Sonatas/16-1",
+  "session": "2017/MIDI-Unprocessed_046_PIANO046_MID--AUDIO-split_07-06-17_Piano-e_2-02_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/16-1/BuiJL02M.mid",
+  "start": 0.0,
+  "end": 281.444133737,
+  "duration_s": 281.444133737,
+  "key": "db5909513f4cb886"
+ },
+ {
+  "performer": "BuiJL",
+  "work": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella",
+  "session": "2017/MIDI-Unprocessed_046_PIANO046_MID--AUDIO-split_07-06-17_Piano-e_2-02_wav--3.wav",
+  "midi": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella/BuiJL03M.mid",
+  "start": 0.0,
+  "end": 282.123617587,
+  "duration_s": 282.123617587,
+  "key": "6279aafb15d649d0"
+ },
+ {
+  "performer": "BuiJL",
+  "work": "Chopin/Ballades/1",
+  "session": "2017/MIDI-Unprocessed_046_PIANO046_MID--AUDIO-split_07-06-17_Piano-e_2-02_wav--4.wav",
+  "midi": "Chopin/Ballades/1/BuiJL04M.mid",
+  "start": 0.0,
+  "end": 558.778244879,
+  "duration_s": 558.778244879,
+  "key": "892defd5502f60ad"
+ },
+ {
+  "performer": "WangY",
+  "work": "Beethoven/Piano_Sonatas/7-1",
+  "session": "2017/MIDI-Unprocessed_047_PIANO047_MID--AUDIO-split_07-06-17_Piano-e_2-04_wav--1.wav",
+  "midi": "Beethoven/Piano_Sonatas/7-1/WangY01M.mid",
+  "start": 0.0,
+  "end": 304.532695817,
+  "duration_s": 304.532695817,
+  "key": "f4ee6d3b1a3f94cc"
+ },
+ {
+  "performer": "WangY",
+  "work": "Liszt/Transcendental_Etudes/5",
+  "session": "2017/MIDI-Unprocessed_047_PIANO047_MID--AUDIO-split_07-06-17_Piano-e_2-04_wav--2.wav",
+  "midi": "Liszt/Transcendental_Etudes/5/WangY02M.mid",
+  "start": 0.0,
+  "end": 212.663487858,
+  "duration_s": 212.663487858,
+  "key": "572c1798a2b1e514"
+ },
+ {
+  "performer": "ToA",
+  "work": "Bach/Prelude/bwv_857",
+  "session": "2017/MIDI-Unprocessed_048_PIANO048_MID--AUDIO-split_07-06-17_Piano-e_2-05_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_857/ToA01M.mid",
+  "start": 0.0,
+  "end": 128.25729166666667,
+  "duration_s": 128.25729166666667,
+  "key": "47208211d21284f1"
+ },
+ {
+  "performer": "ToA",
+  "work": "Bach/Fugue/bwv_857",
+  "session": "2017/MIDI-Unprocessed_048_PIANO048_MID--AUDIO-split_07-06-17_Piano-e_2-05_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_857/ToA01M.mid",
+  "start": 132.90833333333333,
+  "end": 348.258977283,
+  "duration_s": 215.35064394966665,
+  "key": "8acff383ea8775db"
+ },
+ {
+  "performer": "ToA",
+  "work": "Beethoven/Piano_Sonatas/21-1_no_repeat",
+  "session": "2017/MIDI-Unprocessed_048_PIANO048_MID--AUDIO-split_07-06-17_Piano-e_2-05_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/21-1_no_repeat/ToA02M.mid",
+  "start": 0.0,
+  "end": 484.191003521,
+  "duration_s": 484.191003521,
+  "key": "84afa55485acebdc"
+ },
+ {
+  "performer": "LeeSH",
+  "work": "Bach/Prelude/bwv_848",
+  "session": "2017/MIDI-Unprocessed_049_PIANO049_MID--AUDIO-split_07-06-17_Piano-e_2-06_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_848/LeeSH01M.mid",
+  "start": 0.0,
+  "end": 81.30625,
+  "duration_s": 81.30625,
+  "key": "a3eba17417ee0487"
+ },
+ {
+  "performer": "LeeSH",
+  "work": "Bach/Fugue/bwv_848",
+  "session": "2017/MIDI-Unprocessed_049_PIANO049_MID--AUDIO-split_07-06-17_Piano-e_2-06_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_848/LeeSH01M.mid",
+  "start": 83.64479166666666,
+  "end": 229.831138779,
+  "duration_s": 146.18634711233335,
+  "key": "68c1c50a3736b775"
+ },
+ {
+  "performer": "LeeSH",
+  "work": "Beethoven/Piano_Sonatas/16-1",
+  "session": "2017/MIDI-Unprocessed_049_PIANO049_MID--AUDIO-split_07-06-17_Piano-e_2-06_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/16-1/LeeSH02M.mid",
+  "start": 0.0,
+  "end": 306.104269312,
+  "duration_s": 306.104269312,
+  "key": "11f94f33fbf17edd"
+ },
+ {
+  "performer": "LeeSH",
+  "work": "Chopin/Etudes_op_10/4",
+  "session": "2017/MIDI-Unprocessed_049_PIANO049_MID--AUDIO-split_07-06-17_Piano-e_2-06_wav--3.wav",
+  "midi": "Chopin/Etudes_op_10/4/LeeSH03M.mid",
+  "start": 0.0,
+  "end": 115.376571404,
+  "duration_s": 115.376571404,
+  "key": "ea09e30c44b02ad0"
+ },
+ {
+  "performer": "LeeSH",
+  "work": "Chopin/Barcarolle",
+  "session": "2017/MIDI-Unprocessed_049_PIANO049_MID--AUDIO-split_07-06-17_Piano-e_2-06_wav--5.wav",
+  "midi": "Chopin/Barcarolle/LeeSH05M.mid",
+  "start": 0.0,
+  "end": 519.593607825,
+  "duration_s": 519.593607825,
+  "key": "ab8ba5833877e47a"
+ },
+ {
+  "performer": "GuoE",
+  "work": "Bach/Prelude/bwv_883",
+  "session": "2017/MIDI-Unprocessed_050_PIANO050_MID--AUDIO-split_07-06-17_Piano-e_3-01_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_883/GuoE01M.mid",
+  "start": 0.0,
+  "end": 174.56458333333333,
+  "duration_s": 174.56458333333333,
+  "key": "5e387369c8f1b54b"
+ },
+ {
+  "performer": "GuoE",
+  "work": "Bach/Fugue/bwv_883",
+  "session": "2017/MIDI-Unprocessed_050_PIANO050_MID--AUDIO-split_07-06-17_Piano-e_3-01_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_883/GuoE01M.mid",
+  "start": 181.3583333333333,
+  "end": 449.358909242,
+  "duration_s": 268.0005759086667,
+  "key": "883bcd0379f3d8a6"
+ },
+ {
+  "performer": "GuoE",
+  "work": "Beethoven/Piano_Sonatas/17-1_no_repeat",
+  "session": "2017/MIDI-Unprocessed_050_PIANO050_MID--AUDIO-split_07-06-17_Piano-e_3-01_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/17-1_no_repeat/GuoE02M.mid",
+  "start": 0.0,
+  "end": 376.117815133,
+  "duration_s": 376.117815133,
+  "key": "bcc0766b8502ba64"
+ },
+ {
+  "performer": "GuoE",
+  "work": "Liszt/Transcendental_Etudes/4",
+  "session": "2017/MIDI-Unprocessed_050_PIANO050_MID--AUDIO-split_07-06-17_Piano-e_3-01_wav--3.wav",
+  "midi": "Liszt/Transcendental_Etudes/4/GuoE03M.mid",
+  "start": 0.0,
+  "end": 484.962367262,
+  "duration_s": 484.962367262,
+  "key": "ada4a7281a49758b"
+ },
+ {
+  "performer": "MiyashitaM",
+  "work": "Bach/Prelude/bwv_854",
+  "session": "2017/MIDI-Unprocessed_051_PIANO051_MID--AUDIO-split_07-06-17_Piano-e_3-02_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_854/MiyashitaM01M.mid",
+  "start": 0.0,
+  "end": 80.35208333333333,
+  "duration_s": 80.35208333333333,
+  "key": "b43dfeab99120662"
+ },
+ {
+  "performer": "MiyashitaM",
+  "work": "Bach/Fugue/bwv_854",
+  "session": "2017/MIDI-Unprocessed_051_PIANO051_MID--AUDIO-split_07-06-17_Piano-e_3-02_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_854/MiyashitaM01M.mid",
+  "start": 82.771875,
+  "end": 150.834730992,
+  "duration_s": 68.06285599200001,
+  "key": "dcc7180378912200"
+ },
+ {
+  "performer": "MiyashitaM",
+  "work": "Beethoven/Piano_Sonatas/27-1",
+  "session": "2017/MIDI-Unprocessed_051_PIANO051_MID--AUDIO-split_07-06-17_Piano-e_3-02_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/27-1/MiyashitaM02M.mid",
+  "start": 0.0,
+  "end": 318.420448279,
+  "duration_s": 318.420448279,
+  "key": "3b416fcb3c547b91"
+ },
+ {
+  "performer": "MiyashitaM",
+  "work": "Chopin/Etudes_op_25/11",
+  "session": "2017/MIDI-Unprocessed_051_PIANO051_MID--AUDIO-split_07-06-17_Piano-e_3-02_wav--3.wav",
+  "midi": "Chopin/Etudes_op_25/11/MiyashitaM03M.mid",
+  "start": 0.0,
+  "end": 219.964734133,
+  "duration_s": 219.964734133,
+  "key": "942170b47297fff0"
+ },
+ {
+  "performer": "MiyashitaM",
+  "work": "Chopin/Ballades/4",
+  "session": "2017/MIDI-Unprocessed_051_PIANO051_MID--AUDIO-split_07-06-17_Piano-e_3-02_wav--4.wav",
+  "midi": "Chopin/Ballades/4/MiyashitaM04M.mid",
+  "start": 0.0,
+  "end": 641.490446425,
+  "duration_s": 641.490446425,
+  "key": "e2d84aeb458b4566"
+ },
+ {
+  "performer": "LiuY",
+  "work": "Bach/Prelude/bwv_889",
+  "session": "2017/MIDI-Unprocessed_054_PIANO054_MID--AUDIO-split_07-07-17_Piano-e_1-02_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_889/LiuY01M.mid",
+  "start": 0.0,
+  "end": 138.490625,
+  "duration_s": 138.490625,
+  "key": "e3114d52d331548f"
+ },
+ {
+  "performer": "LiuY",
+  "work": "Bach/Fugue/bwv_889",
+  "session": "2017/MIDI-Unprocessed_054_PIANO054_MID--AUDIO-split_07-07-17_Piano-e_1-02_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_889/LiuY01M.mid",
+  "start": 140.88958333333332,
+  "end": 225.740346858,
+  "duration_s": 84.85076352466669,
+  "key": "2a8d5fc125e8410a"
+ },
+ {
+  "performer": "LiuY",
+  "work": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella",
+  "session": "2017/MIDI-Unprocessed_054_PIANO054_MID--AUDIO-split_07-07-17_Piano-e_1-02_wav--3.wav",
+  "midi": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella/LiuY03M.mid",
+  "start": 0.0,
+  "end": 264.791437558,
+  "duration_s": 264.791437558,
+  "key": "2c0e1972e1b518ba"
+ },
+ {
+  "performer": "KabuliL",
+  "work": "Bach/Prelude/bwv_892",
+  "session": "2017/MIDI-Unprocessed_055_PIANO055_MID--AUDIO-split_07-07-17_Piano-e_1-04_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_892/KabuliL01M.mid",
+  "start": 0.0,
+  "end": 113.53020833333332,
+  "duration_s": 113.53020833333332,
+  "key": "4a1b2212fa070359"
+ },
+ {
+  "performer": "KabuliL",
+  "work": "Bach/Fugue/bwv_892",
+  "session": "2017/MIDI-Unprocessed_055_PIANO055_MID--AUDIO-split_07-07-17_Piano-e_1-04_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_892/KabuliL01M.mid",
+  "start": 116.35729166666668,
+  "end": 347.093384704,
+  "duration_s": 230.73609303733332,
+  "key": "2ab5962bcce9c7b5"
+ },
+ {
+  "performer": "KabuliL",
+  "work": "Beethoven/Piano_Sonatas/17-1_no_repeat",
+  "session": "2017/MIDI-Unprocessed_055_PIANO055_MID--AUDIO-split_07-07-17_Piano-e_1-04_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/17-1_no_repeat/KabuliL02M.mid",
+  "start": 0.0,
+  "end": 355.351891246,
+  "duration_s": 355.351891246,
+  "key": "16aaa77970c0f730"
+ },
+ {
+  "performer": "TongB",
+  "work": "Bach/Prelude/bwv_863",
+  "session": "2017/MIDI-Unprocessed_056_PIANO056_MID--AUDIO-split_07-07-17_Piano-e_1-05_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_863/TongB01M.mid",
+  "start": 0.0,
+  "end": 94.35416666666669,
+  "duration_s": 94.35416666666669,
+  "key": "20fffd374bf2c68a"
+ },
+ {
+  "performer": "TongB",
+  "work": "Bach/Fugue/bwv_863",
+  "session": "2017/MIDI-Unprocessed_056_PIANO056_MID--AUDIO-split_07-07-17_Piano-e_1-05_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_863/TongB01M.mid",
+  "start": 97.58020833333332,
+  "end": 268.404667717,
+  "duration_s": 170.8244593836667,
+  "key": "8afaad882a967295"
+ },
+ {
+  "performer": "TongB",
+  "work": "Chopin/Etudes_op_25/1",
+  "session": "2017/MIDI-Unprocessed_056_PIANO056_MID--AUDIO-split_07-07-17_Piano-e_1-05_wav--2.wav",
+  "midi": "Chopin/Etudes_op_25/1/TongB02M.mid",
+  "start": 0.0,
+  "end": 147.718293271,
+  "duration_s": 147.718293271,
+  "key": "37dac933b14997f6"
+ },
+ {
+  "performer": "TongB",
+  "work": "Beethoven/Piano_Sonatas/21-1_no_repeat",
+  "session": "2017/MIDI-Unprocessed_056_PIANO056_MID--AUDIO-split_07-07-17_Piano-e_1-05_wav--3.wav",
+  "midi": "Beethoven/Piano_Sonatas/21-1_no_repeat/TongB03M.mid",
+  "start": 0.0,
+  "end": 501.518910067,
+  "duration_s": 501.518910067,
+  "key": "dbdc29a905216cbe"
+ },
+ {
+  "performer": "TongB",
+  "work": "Chopin/Scherzos/31",
+  "session": "2017/MIDI-Unprocessed_056_PIANO056_MID--AUDIO-split_07-07-17_Piano-e_1-05_wav--4.wav",
+  "midi": "Chopin/Scherzos/31/TongB04M.mid",
+  "start": 0.0,
+  "end": 558.0485476,
+  "duration_s": 558.0485476,
+  "key": "3d604dde5c439ec4"
+ },
+ {
+  "performer": "TuanS",
+  "work": "Bach/Fugue/bwv_860",
+  "session": "2017/MIDI-Unprocessed_057_PIANO057_MID--AUDIO-split_07-07-17_Piano-e_1-07_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_860/TuanS01M.mid",
+  "start": 52.3,
+  "end": 223.305529729,
+  "duration_s": 171.005529729,
+  "key": "abe75bc17e9cc469"
+ },
+ {
+  "performer": "TuanS",
+  "work": "Beethoven/Piano_Sonatas/17-1_no_repeat",
+  "session": "2017/MIDI-Unprocessed_057_PIANO057_MID--AUDIO-split_07-07-17_Piano-e_1-07_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/17-1_no_repeat/TuanS02M.mid",
+  "start": 0.0,
+  "end": 384.556876346,
+  "duration_s": 384.556876346,
+  "key": "c8846f83e50b63e0"
+ },
+ {
+  "performer": "TuanS",
+  "work": "Chopin/Etudes_op_25/1",
+  "session": "2017/MIDI-Unprocessed_057_PIANO057_MID--AUDIO-split_07-07-17_Piano-e_1-07_wav--4.wav",
+  "midi": "Chopin/Etudes_op_25/1/TuanS04M.mid",
+  "start": 0.0,
+  "end": 143.456562017,
+  "duration_s": 143.456562017,
+  "key": "00ee5d716d7d94a3"
+ },
+ {
+  "performer": "TuanS",
+  "work": "Chopin/Scherzos/31",
+  "session": "2017/MIDI-Unprocessed_057_PIANO057_MID--AUDIO-split_07-07-17_Piano-e_1-07_wav--5.wav",
+  "midi": "Chopin/Scherzos/31/TuanS05M.mid",
+  "start": 0.0,
+  "end": 581.174502658,
+  "duration_s": 581.174502658,
+  "key": "5aedc35da4fcfed0"
+ },
+ {
+  "performer": "SunY",
+  "work": "Bach/Prelude/bwv_848",
+  "session": "2017/MIDI-Unprocessed_059_PIANO059_MID--AUDIO-split_07-07-17_Piano-e_2-03_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_848/SunY01M.mid",
+  "start": 0.0,
+  "end": 65.2375,
+  "duration_s": 65.2375,
+  "key": "e999b96bf0fd175e"
+ },
+ {
+  "performer": "SunY",
+  "work": "Bach/Fugue/bwv_848",
+  "session": "2017/MIDI-Unprocessed_059_PIANO059_MID--AUDIO-split_07-07-17_Piano-e_2-03_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_848/SunY01M.mid",
+  "start": 70.603125,
+  "end": 194.047126088,
+  "duration_s": 123.444001088,
+  "key": "57b4e5d8ad1b4dcc"
+ },
+ {
+  "performer": "SunY",
+  "work": "Beethoven/Piano_Sonatas/21-1_no_repeat",
+  "session": "2017/MIDI-Unprocessed_059_PIANO059_MID--AUDIO-split_07-07-17_Piano-e_2-03_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/21-1_no_repeat/SunY02M.mid",
+  "start": 0.0,
+  "end": 480.396150321,
+  "duration_s": 480.396150321,
+  "key": "d51894561e9f8c26"
+ },
+ {
+  "performer": "SunY",
+  "work": "Chopin/Etudes_op_10/1",
+  "session": "2017/MIDI-Unprocessed_059_PIANO059_MID--AUDIO-split_07-07-17_Piano-e_2-03_wav--3.wav",
+  "midi": "Chopin/Etudes_op_10/1/SunY03M.mid",
+  "start": 0.0,
+  "end": 114.474866421,
+  "duration_s": 114.474866421,
+  "key": "fec44d7efc2d0314"
+ },
+ {
+  "performer": "SirajA",
+  "work": "Bach/Prelude/bwv_876",
+  "session": "2017/MIDI-Unprocessed_061_PIANO061_MID--AUDIO-split_07-07-17_Piano-e_2-05_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_876/SirajA01M.mid",
+  "start": 0.0,
+  "end": 131.15416666666667,
+  "duration_s": 131.15416666666667,
+  "key": "defe55289cf64649"
+ },
+ {
+  "performer": "SirajA",
+  "work": "Bach/Fugue/bwv_876",
+  "session": "2017/MIDI-Unprocessed_061_PIANO061_MID--AUDIO-split_07-07-17_Piano-e_2-05_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_876/SirajA01M.mid",
+  "start": 133.08229166666666,
+  "end": 246.290459838,
+  "duration_s": 113.20816817133334,
+  "key": "abf7e1820b04ca8b"
+ },
+ {
+  "performer": "SirajA",
+  "work": "Beethoven/Piano_Sonatas/4-1",
+  "session": "2017/MIDI-Unprocessed_061_PIANO061_MID--AUDIO-split_07-07-17_Piano-e_2-05_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/4-1/SirajA02M.mid",
+  "start": 0.0,
+  "end": 333.371229721,
+  "duration_s": 333.371229721,
+  "key": "3504a5af998c632a"
+ },
+ {
+  "performer": "ZhangW",
+  "work": "Beethoven/Piano_Sonatas/21-1_no_repeat",
+  "session": "2017/MIDI-Unprocessed_062_PIANO062_MID--AUDIO-split_07-07-17_Piano-e_2-07_wav--1.wav",
+  "midi": "Beethoven/Piano_Sonatas/21-1_no_repeat/ZhangW01M.mid",
+  "start": 0.0,
+  "end": 488.333077242,
+  "duration_s": 488.333077242,
+  "key": "81147f32dc585b36"
+ },
+ {
+  "performer": "ZhangW",
+  "work": "Bach/Prelude/bwv_889",
+  "session": "2017/MIDI-Unprocessed_062_PIANO062_MID--AUDIO-split_07-07-17_Piano-e_2-07_wav--2.wav",
+  "midi": "Bach/Prelude/bwv_889/ZhangW02M.mid",
+  "start": 0.0,
+  "end": 123.72395833333331,
+  "duration_s": 123.72395833333331,
+  "key": "e39f4d7883758d6a"
+ },
+ {
+  "performer": "ZhangW",
+  "work": "Bach/Fugue/bwv_889",
+  "session": "2017/MIDI-Unprocessed_062_PIANO062_MID--AUDIO-split_07-07-17_Piano-e_2-07_wav--2.wav",
+  "midi": "Bach/Fugue/bwv_889/ZhangW02M.mid",
+  "start": 127.68333333333334,
+  "end": 215.636763887,
+  "duration_s": 87.95343055366666,
+  "key": "3f4d5f4341ceced2"
+ },
+ {
+  "performer": "ZhangW",
+  "work": "Chopin/Scherzos/31",
+  "session": "2017/MIDI-Unprocessed_062_PIANO062_MID--AUDIO-split_07-07-17_Piano-e_2-07_wav--4.wav",
+  "midi": "Chopin/Scherzos/31/ZhangW04M.mid",
+  "start": 0.0,
+  "end": 577.134992537,
+  "duration_s": 577.134992537,
+  "key": "efbeb467c84ae911"
+ },
+ {
+  "performer": "CaoJ",
+  "work": "Bach/Prelude/bwv_875",
+  "session": "2017/MIDI-Unprocessed_065_PIANO065_MID--AUDIO-split_07-07-17_Piano-e_3-01_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_875/CaoJ01M.mid",
+  "start": 0.0,
+  "end": 88.54270833333334,
+  "duration_s": 88.54270833333334,
+  "key": "e4e3da078d424f0c"
+ },
+ {
+  "performer": "CaoJ",
+  "work": "Bach/Fugue/bwv_875",
+  "session": "2017/MIDI-Unprocessed_065_PIANO065_MID--AUDIO-split_07-07-17_Piano-e_3-01_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_875/CaoJ01M.mid",
+  "start": 89.53125,
+  "end": 208.592994983,
+  "duration_s": 119.06174498300001,
+  "key": "75123d825aa43b9c"
+ },
+ {
+  "performer": "CaoJ",
+  "work": "Beethoven/Piano_Sonatas/3-1",
+  "session": "2017/MIDI-Unprocessed_065_PIANO065_MID--AUDIO-split_07-07-17_Piano-e_3-01_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/3-1/CaoJ02M.mid",
+  "start": 0.0,
+  "end": 450.154845513,
+  "duration_s": 450.154845513,
+  "key": "caedecb3ccb66b5e"
+ },
+ {
+  "performer": "CaoJ",
+  "work": "Liszt/Transcendental_Etudes/10",
+  "session": "2017/MIDI-Unprocessed_065_PIANO065_MID--AUDIO-split_07-07-17_Piano-e_3-01_wav--3.wav",
+  "midi": "Liszt/Transcendental_Etudes/10/CaoJ03M.mid",
+  "start": 0.0,
+  "end": 267.455954417,
+  "duration_s": 267.455954417,
+  "key": "a87205708b9763e2"
+ },
+ {
+  "performer": "LeungR",
+  "work": "Bach/Prelude/bwv_880",
+  "session": "2017/MIDI-Unprocessed_066_PIANO066_MID--AUDIO-split_07-07-17_Piano-e_3-02_wav--1.wav",
+  "midi": "Bach/Prelude/bwv_880/LeungR01M.mid",
+  "start": 0.0,
+  "end": 206.496875,
+  "duration_s": 206.496875,
+  "key": "6d3a1d135fea7120"
+ },
+ {
+  "performer": "LeungR",
+  "work": "Bach/Fugue/bwv_880",
+  "session": "2017/MIDI-Unprocessed_066_PIANO066_MID--AUDIO-split_07-07-17_Piano-e_3-02_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_880/LeungR01M.mid",
+  "start": 207.4364583333333,
+  "end": 302.413048083,
+  "duration_s": 94.97658974966669,
+  "key": "4c2e502bd242d6ef"
+ },
+ {
+  "performer": "LeungR",
+  "work": "Beethoven/Piano_Sonatas/18-1",
+  "session": "2017/MIDI-Unprocessed_066_PIANO066_MID--AUDIO-split_07-07-17_Piano-e_3-02_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/18-1/LeungR02M.mid",
+  "start": 0.0,
+  "end": 353.245063963,
+  "duration_s": 353.245063963,
+  "key": "10da02dc149163a9"
+ },
+ {
+  "performer": "LeungR",
+  "work": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella",
+  "session": "2017/MIDI-Unprocessed_066_PIANO066_MID--AUDIO-split_07-07-17_Piano-e_3-02_wav--4.wav",
+  "midi": "Liszt/Gran_Etudes_de_Paganini/2_La_campanella/LeungR04M.mid",
+  "start": 0.0,
+  "end": 283.232586512,
+  "duration_s": 283.232586512,
+  "key": "023b2ced23530d57"
+ },
+ {
+  "performer": "ZhangE",
+  "work": "Bach/Fugue/bwv_865",
+  "session": "2017/MIDI-Unprocessed_067_PIANO067_MID--AUDIO-split_07-07-17_Piano-e_3-03_wav--1.wav",
+  "midi": "Bach/Fugue/bwv_865/ZhangE01M.mid",
+  "start": 63.21979166666666,
+  "end": 309.229254,
+  "duration_s": 246.00946233333337,
+  "key": "465c39092bb67175"
+ },
+ {
+  "performer": "ZhangE",
+  "work": "Beethoven/Piano_Sonatas/7-1",
+  "session": "2017/MIDI-Unprocessed_067_PIANO067_MID--AUDIO-split_07-07-17_Piano-e_3-03_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/7-1/ZhangE02M.mid",
+  "start": 0.0,
+  "end": 289.1011475,
+  "duration_s": 289.1011475,
+  "key": "c503305037c0b84a"
+ },
+ {
+  "performer": "ZhangE",
+  "work": "Chopin/Etudes_op_10/4",
+  "session": "2017/MIDI-Unprocessed_067_PIANO067_MID--AUDIO-split_07-07-17_Piano-e_3-03_wav--3.wav",
+  "midi": "Chopin/Etudes_op_10/4/ZhangE03M.mid",
+  "start": 0.0,
+  "end": 112.612696058,
+  "duration_s": 112.612696058,
+  "key": "087fc209cb425f64"
+ },
+ {
+  "performer": "KaiRuiR",
+  "work": "Schubert/Impromptu_op.90_D.899/2",
+  "session": "2017/MIDI-Unprocessed_070_PIANO070_MID--AUDIO-split_07-08-17_Piano-e_1-02_wav--1.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/2/KaiRuiR05M.mid",
+  "start": 0.0,
+  "end": 287.37038675,
+  "duration_s": 287.37038675,
+  "key": "7027060ec2fb043d"
+ },
+ {
+  "performer": "BuiJL",
+  "work": "Schubert/Piano_Sonatas/664-1",
+  "session": "2017/MIDI-Unprocessed_071_PIANO071_MID--AUDIO-split_07-08-17_Piano-e_1-04_wav--2.wav",
+  "midi": "Schubert/Piano_Sonatas/664-1/BuiJL06M.mid",
+  "start": 0.0,
+  "end": 342.161784937,
+  "duration_s": 342.161784937,
+  "key": "bc91e6a07f094964"
+ },
+ {
+  "performer": "LeeSH",
+  "work": "Schubert/Impromptu_op.90_D.899/3",
+  "session": "2017/MIDI-Unprocessed_073_PIANO073_MID--AUDIO-split_07-08-17_Piano-e_2-02_wav--2.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/3/LeeSH08M.mid",
+  "start": 0.0,
+  "end": 366.462947912,
+  "duration_s": 366.462947912,
+  "key": "24ec46b91d4d0d55"
+ },
+ {
+  "performer": "KabuliL",
+  "work": "Schubert/Piano_Sonatas/664-1",
+  "session": "2017/MIDI-Unprocessed_078_PIANO078_MID--AUDIO-split_07-09-17_Piano-e_1-02_wav--2.wav",
+  "midi": "Schubert/Piano_Sonatas/664-1/KabuliL10M.mid",
+  "start": 0.0,
+  "end": 319.74583333333334,
+  "duration_s": 319.74583333333334,
+  "key": "98892f462c5722e8"
+ },
+ {
+  "performer": "SunY",
+  "work": "Schubert/Impromptu_op142/3",
+  "session": "2017/MIDI-Unprocessed_080_PIANO080_MID--AUDIO-split_07-09-17_Piano-e_1-06_wav--1.wav",
+  "midi": "Schubert/Impromptu_op142/3/SunY08M.mid",
+  "start": 0.0,
+  "end": 551.678920692,
+  "duration_s": 551.678920692,
+  "key": "2712f0c5a8790a78"
+ },
+ {
+  "performer": "ZhangW",
+  "work": "Schubert/Impromptu_op.90_D.899/3",
+  "session": "2017/MIDI-Unprocessed_082_PIANO082_MID--AUDIO-split_07-09-17_Piano-e_2_-04_wav--3.wav",
+  "midi": "Schubert/Impromptu_op.90_D.899/3/ZhangW07M.mid",
+  "start": 0.0,
+  "end": 327.167200292,
+  "duration_s": 327.167200292,
+  "key": "5f7cc62a4e886ac9"
+ },
+ {
+  "performer": "ZhangE",
+  "work": "Chopin/Berceuse_op_57",
+  "session": "2017/MIDI-Unprocessed_083_PIANO083_MID--AUDIO-split_07-09-17_Piano-e_2_-06_wav--5.wav",
+  "midi": "Chopin/Berceuse_op_57/ZhangE09M.mid",
+  "start": 0.0,
+  "end": 265.093786504,
+  "duration_s": 265.093786504,
+  "key": "76a38e5254eb1e45"
+ },
+ {
+  "performer": "LeungM",
+  "work": "Beethoven/Piano_Sonatas/31-1",
+  "session": "2018/MIDI-Unprocessed_Recital17-19_MID--AUDIO_19_R1_2018_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/31-1/LeungM03M.mid",
+  "start": 0.0,
+  "end": 334.43359375,
+  "duration_s": 334.43359375,
+  "key": "cab880aa5b46851b"
+ },
+ {
+  "performer": "LeungM",
+  "work": "Beethoven/Piano_Sonatas/31-3_4",
+  "session": "2018/MIDI-Unprocessed_Recital17-19_MID--AUDIO_19_R1_2018_wav--2.wav",
+  "midi": "Beethoven/Piano_Sonatas/31-3_4/LeungM05M.mid",
+  "start": 447.67317708333326,
+  "end": 1022.54438344,
+  "duration_s": 574.8712063566668,
+  "key": "0183c4de76442f12"
+ },
+ {
+  "performer": "LeungM",
+  "work": "Liszt/Transcendental_Etudes/10",
+  "session": "2018/MIDI-Unprocessed_Recital17-19_MID--AUDIO_19_R1_2018_wav--3.wav",
+  "midi": "Liszt/Transcendental_Etudes/10/LeungM06M.mid",
+  "start": 0.0,
+  "end": 235.22412375,
+  "duration_s": 235.22412375,
+  "key": "1c2cfe7219ae5c6b"
+ },
+ {
+  "performer": "LeungM",
+  "work": "Liszt/Annees_de_pelerinage_2/1_Gondoliera",
+  "session": "2018/MIDI-Unprocessed_Recital17-19_MID--AUDIO_19_R1_2018_wav--4.wav",
+  "midi": "Liszt/Annees_de_pelerinage_2/1_Gondoliera/LeungM08M.mid",
+  "start": 0.0,
+  "end": 278.21875,
+  "duration_s": 278.21875,
+  "key": "241aadbea115e4ab"
+ }
+]

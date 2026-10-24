@@ -1,0 +1,141 @@
+{
+  "pool": "asap_maestro_index",
+  "scale": "per_work",
+  "min_per_work": 3,
+  "n_perm": 200,
+  "n_boot": 2000,
+  "n_performances": 88,
+  "n_performers": 23,
+  "n_sessions": 67,
+  "n_works": 22,
+  "chance": 0.043478260869565216,
+  "note_f1": {
+    "median": 0.995035044601966,
+    "p10": 0.976748537894968,
+    "p90": 0.9991869434079231
+  },
+  "feature_survival": {
+    "asynchrony_beats_mean": {
+      "pearson": 0.9552094382906202,
+      "spearman": 0.9503011517734495
+    },
+    "asynchrony_beats_sd": {
+      "pearson": 0.9730354862407621,
+      "spearman": 0.950494875136487
+    },
+    "melody_lead_beats_mean": {
+      "pearson": 0.9762109140614293,
+      "spearman": 0.9617308301926669
+    },
+    "melody_lead_beats_sd": {
+      "pearson": 0.9654401904614223,
+      "spearman": 0.967295974076292
+    },
+    "frac_melody_first": {
+      "pearson": 0.9830397314460695,
+      "spearman": 0.971980557218837
+    },
+    "ioi_cv": {
+      "pearson": 0.9974540217748584,
+      "spearman": 0.9832869571343033
+    },
+    "ioi_log_sd": {
+      "pearson": 0.9991504115773493,
+      "spearman": 0.9980803775844459
+    },
+    "ioi_ratio_p90_p10": {
+      "pearson": 0.9981335604140852,
+      "spearman": 0.9940826318199432
+    },
+    "velocity_sd": {
+      "pearson": 0.971897591723744,
+      "spearman": 0.9727026170265227
+    },
+    "velocity_p90_p10": {
+      "pearson": 0.9848385368774181,
+      "spearman": 0.9787517906420093
+    },
+    "melody_prominence": {
+      "pearson": 0.9759131870011146,
+      "spearman": 0.981015110422317
+    }
+  },
+  "arms": {
+    "chance": 0.043478260869565216,
+    "shuffled (session-level)": 0.010869565217391304,
+    "piece identity only": 0.0,
+    "transcription artefacts": 0.02898550724637681,
+    "EXACT MIDI, session out": 0.08768115942028985,
+    "TRANSCRIBED, session out": 0.0789855072463768,
+    "transcribed, one track out": 0.14420289855072466,
+    "piece + transcribed": 0.053623188405797106
+  },
+  "ci_transcribed": [
+    0.03518633540372671,
+    0.13697463768115933
+  ],
+  "ci_exact": [
+    0.050724637681159424,
+    0.15434782608695652
+  ],
+  "paired_drop": {
+    "observed": 0.008695652173913049,
+    "p": 0.8756218905472637,
+    "null_sd": 0.03727633642539039
+  },
+  "signal_retained": 0.8032786885245901,
+  "signal_retained_from_null": 0.8264632575620229,
+  "signal_retained_ci": [
+    -0.24210810810810815,
+    3.1718749999999933
+  ],
+  "retained_undefined_draws": 25,
+  "within_year": {
+    "2008": {
+      "balanced_accuracy": 0.38888888888888884,
+      "chance": 0.16666666666666666,
+      "n": 18,
+      "n_performers": 6,
+      "null_mean": 0.09883333333333333,
+      "p": 0.0196078431372549
+    },
+    "2011": {
+      "balanced_accuracy": 0.1875,
+      "chance": 0.25,
+      "n": 15,
+      "n_performers": 4,
+      "null_mean": 0.16641666666666666,
+      "p": 0.47058823529411764
+    },
+    "2015": {
+      "balanced_accuracy": 0.36666666666666664,
+      "chance": 0.25,
+      "n": 16,
+      "n_performers": 4,
+      "null_mean": 0.17639285714285713,
+      "p": 0.09803921568627451
+    },
+    "2017": {
+      "balanced_accuracy": 0.13166666666666665,
+      "chance": 0.1,
+      "n": 36,
+      "n_performers": 10,
+      "null_mean": 0.06623333333333332,
+      "p": 0.11764705882352941
+    }
+  },
+  "within_year_combined": {
+    "n_years": 4,
+    "n_perm": 50,
+    "unweighted_margin": 0.07701388888888885,
+    "unweighted_p": 0.0196078431372549,
+    "weighted_margin": 0.0714019607843137,
+    "weighted_p": 0.0196078431372549,
+    "unweighted_null_mean": -0.04697003968253969,
+    "weighted_null_mean": -0.042093781512605045
+  },
+  "permutation_p_transcribed": 0.03980099502487562,
+  "permutation_p_exact": 0.03980099502487562,
+  "null_mean": 0.03376095583160801,
+  "null_sd": 0.023215742796533757
+}

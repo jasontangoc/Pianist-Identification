@@ -1,0 +1,110 @@
+{
+  "etude": [
+    "Agustin Anievas",
+    "Alfred Cortot",
+    "Emil Gilels",
+    "Josef Hofmann",
+    "Sviatoslav Richter",
+    "Vladimir Horowitz"
+  ],
+  "waltz": [
+    "Agustin Anievas",
+    "Alfred Cortot",
+    "Arthur Rubinstein",
+    "Josef Hofmann",
+    "Mark Hambourg",
+    "Vladimir Horowitz"
+  ],
+  "ballade": [
+    "Agustin Anievas",
+    "Alfred Cortot",
+    "Arthur Rubinstein",
+    "Arturo Benedetti Michelangeli",
+    "Benno Moiseiwitsch",
+    "Byron Janis",
+    "Emil Gilels",
+    "Gabriele Baldocci",
+    "Josef Hofmann",
+    "Julian von Karolyi",
+    "Mark Hambourg",
+    "Martin Kasik",
+    "Samson Francois",
+    "Sviatoslav Richter",
+    "Vladimir Horowitz"
+  ],
+  "nocturne": [
+    "Alfred Cortot",
+    "Andrei Gavrilov",
+    "Arthur Rubinstein",
+    "Benno Moiseiwitsch",
+    "Frank Levy",
+    "Julian von Karolyi",
+    "Mark Hambourg",
+    "Samson Francois",
+    "Vladimir Horowitz"
+  ],
+  "polonaise": [
+    "Alfred Cortot",
+    "Arthur Rubinstein",
+    "Benno Moiseiwitsch",
+    "Mark Hambourg",
+    "Samson Francois"
+  ],
+  "sonata": [
+    "Alfred Cortot",
+    "Arthur Rubinstein",
+    "Byron Janis",
+    "Emil Gilels",
+    "Josef Hofmann",
+    "Vladimir Horowitz"
+  ],
+  "prelude": [
+    "Alfred Cortot",
+    "Arthur Rubinstein",
+    "Emil Gilels",
+    "Vladimir Horowitz"
+  ],
+  "berceuse": [
+    "Alfred Cortot",
+    "Arthur Rubinstein",
+    "Arturo Benedetti Michelangeli",
+    "Julian von Karolyi"
+  ],
+  "fantaisie-impromptu": [
+    "Alfred Cortot",
+    "Arthur Rubinstein"
+  ],
+  "impromptu": [
+    "Alfred Cortot",
+    "Arthur Rubinstein",
+    "Byron Janis",
+    "Julian von Karolyi"
+  ],
+  "concerto": [
+    "Alfred Cortot",
+    "Arthur Rubinstein",
+    "Emil Gilels"
+  ],
+  "mazurka": [
+    "Arthur Rubinstein",
+    "Arturo Benedetti Michelangeli",
+    "Byron Janis",
+    "Vladimir Horowitz"
+  ],
+  "scherzo": [
+    "Arthur Rubinstein",
+    "Arturo Benedetti Michelangeli",
+    "Benno Moiseiwitsch",
+    "Byron Janis",
+    "Martin Kasik",
+    "Samson Francois",
+    "Vladimir Horowitz"
+  ],
+  "barcarolle": [
+    "Arthur Rubinstein",
+    "Benno Moiseiwitsch"
+  ],
+  "andante spianato": [
+    "Arthur Rubinstein"
+  ]
+}
